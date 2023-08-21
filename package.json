@@ -3,18 +3,17 @@
     "displayName": "VSR Template Helper",
     "description": "Get started with VSR templates, Virtual Scalable and Reusable Templates for building mockups for UI development",
     "version": "0.0.1",
+    "publisher": "CRMZiaUITeam",
     "engines": {
-        "vscode": "^1.81.0"
+        "vscode": "^1.70.0"
     },
     "categories": [
-        "Html",
-        "Javascript",
-        "Css",
-        "Less"
+        "Snippets",
+        "Other"
     ],
     "activationEvents": [],
     "main": "./extension.js",
-    "icon": "icon.svg",
+    "icon": "icon.png",
     "contributes": {
         "html": {
             "customData": [
@@ -57,7 +56,7 @@
         "test": "node ./test/runTest.js"
     },
     "devDependencies": {
-        "@types/vscode": "^1.81.0",
+        "@types/vscode": "^1.70.0",
         "@types/glob": "^8.1.0",
         "@types/mocha": "^10.0.1",
         "@types/node": "20.2.5",

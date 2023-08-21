@@ -7,6 +7,9 @@ const vscode = require('vscode');
 
 /**
  * @param {vscode.ExtensionContext} context
+ * 
+ * bfi2h5ncan5opvbthsttafgzf5r7pz4ykpzyui26pjuew3oogvmq
+ * 
  */
 function activate(context) {
 
