@@ -1,0 +1,4265 @@
+{
+    "util-leads(zcicn-leads-colored)": {
+        "prefix": "util-leads(zcicn-leads-colored)",
+        "body": [
+            "<crmutil-icon icon-name='leads' icon-class='zcicn-leads zcicn-leads-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-contacts(zcicn-contacts-colored)": {
+        "prefix": "util-contacts(zcicn-contacts-colored)",
+        "body": [
+            "<crmutil-icon icon-name='contacts' icon-class='zcicn-contacts zcicn-contacts-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-potentials(zcicn-potentials-colored)": {
+        "prefix": "util-potentials(zcicn-potentials-colored)",
+        "body": [
+            "<crmutil-icon icon-name='potentials' icon-class='zcicn-potentials zcicn-potentials-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-task-red-filled(zcicn16)": {
+        "prefix": "util-task-red-filled(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='task-red-filled' icon-class='zcicn-task-red-filled zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-products(zcicn-products-colored)": {
+        "prefix": "util-products(zcicn-products-colored)",
+        "body": [
+            "<crmutil-icon icon-name='products' icon-class='zcicn-products zcicn-products-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-quotes(zcicn-quotes-colored)": {
+        "prefix": "util-quotes(zcicn-quotes-colored)",
+        "body": [
+            "<crmutil-icon icon-name='quotes' icon-class='zcicn-quotes zcicn-quotes-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-salesorders(zcicn-salesorders-colored)": {
+        "prefix": "util-salesorders(zcicn-salesorders-colored)",
+        "body": [
+            "<crmutil-icon icon-name='salesorders' icon-class='zcicn-salesorders zcicn-salesorders-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-purchaseorders(zcicn-purchaseorders-colored)": {
+        "prefix": "util-purchaseorders(zcicn-purchaseorders-colored)",
+        "body": [
+            "<crmutil-icon icon-name='purchaseorders' icon-class='zcicn-purchaseorders zcicn-purchaseorders-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-invoices(zcicn-invoices-colored)": {
+        "prefix": "util-invoices(zcicn-invoices-colored)",
+        "body": [
+            "<crmutil-icon icon-name='invoices' icon-class='zcicn-invoices zcicn-invoices-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-vendors(zcicn-vendors-colored)": {
+        "prefix": "util-vendors(zcicn-vendors-colored)",
+        "body": [
+            "<crmutil-icon icon-name='vendors' icon-class='zcicn-vendors zcicn-vendors-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-solutions(zcicn-solutions-colored)": {
+        "prefix": "util-solutions(zcicn-solutions-colored)",
+        "body": [
+            "<crmutil-icon icon-name='solutions' icon-class='zcicn-solutions zcicn-solutions-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-custom(zcicn-custom-colored)": {
+        "prefix": "util-custom(zcicn-custom-colored)",
+        "body": [
+            "<crmutil-icon icon-name='custom' icon-class='zcicn-custom zcicn-custom-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-pricebooks(zcicn-pricebooks-colored)": {
+        "prefix": "util-pricebooks(zcicn-pricebooks-colored)",
+        "body": [
+            "<crmutil-icon icon-name='pricebooks' icon-class='zcicn-pricebooks zcicn-pricebooks-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-campaigns(zcicn-campaigns-colored)": {
+        "prefix": "util-campaigns(zcicn-campaigns-colored)",
+        "body": [
+            "<crmutil-icon icon-name='campaigns' icon-class='zcicn-campaigns zcicn-campaigns-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-cases(zcicn-cases-colored)": {
+        "prefix": "util-cases(zcicn-cases-colored)",
+        "body": [
+            "<crmutil-icon icon-name='cases' icon-class='zcicn-cases zcicn-cases-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-accounts(zcicn-accounts-colored)": {
+        "prefix": "util-accounts(zcicn-accounts-colored)",
+        "body": [
+            "<crmutil-icon icon-name='accounts' icon-class='zcicn-accounts zcicn-accounts-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-events(zcicn-events-colored)": {
+        "prefix": "util-events(zcicn-events-colored)",
+        "body": [
+            "<crmutil-icon icon-name='events' icon-class='zcicn-events zcicn-events-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-reviewProcess": {
+        "prefix": "util-reviewProcess",
+        "body": [
+            "<crmutil-icon icon-name='reviewProcess' icon-class='zcicn-reviewProcess'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-imageValidation": {
+        "prefix": "util-imageValidation",
+        "body": [
+            "<crmutil-icon icon-name='imageValidation' icon-class='zcicn-imageValidation'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-approvalProcess": {
+        "prefix": "util-approvalProcess",
+        "body": [
+            "<crmutil-icon icon-name='approvalProcess' icon-class='zcicn-approvalProcess'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-blueprint": {
+        "prefix": "util-blueprint",
+        "body": [
+            "<crmutil-icon icon-name='blueprint' icon-class='zcicn-blueprint'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-video": {
+        "prefix": "util-attachment-video",
+        "body": [
+            "<crmutil-icon icon-name='attachment-video' icon-class='zcicn-attachment-video'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-text": {
+        "prefix": "util-attachment-text",
+        "body": [
+            "<crmutil-icon icon-name='attachment-text' icon-class='zcicn-attachment-text'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-document": {
+        "prefix": "util-attachment-document",
+        "body": [
+            "<crmutil-icon icon-name='attachment-document' icon-class='zcicn-attachment-document'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-pdf": {
+        "prefix": "util-attachment-pdf",
+        "body": [
+            "<crmutil-icon icon-name='attachment-pdf' icon-class='zcicn-attachment-pdf'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-audio": {
+        "prefix": "util-attachment-audio",
+        "body": [
+            "<crmutil-icon icon-name='attachment-audio' icon-class='zcicn-attachment-audio'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-zip": {
+        "prefix": "util-attachment-zip",
+        "body": [
+            "<crmutil-icon icon-name='attachment-zip' icon-class='zcicn-attachment-zip'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-sheet": {
+        "prefix": "util-attachment-sheet",
+        "body": [
+            "<crmutil-icon icon-name='attachment-sheet' icon-class='zcicn-attachment-sheet'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-image": {
+        "prefix": "util-attachment-image",
+        "body": [
+            "<crmutil-icon icon-name='attachment-image' icon-class='zcicn-attachment-image'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-chart": {
+        "prefix": "util-attachment-chart",
+        "body": [
+            "<crmutil-icon icon-name='attachment-chart' icon-class='zcicn-attachment-chart'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-attachment-noformat": {
+        "prefix": "util-attachment-noformat",
+        "body": [
+            "<crmutil-icon icon-name='attachment-noformat' icon-class='zcicn-attachment-noformat'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-announcement": {
+        "prefix": "util-announcement",
+        "body": [
+            "<crmutil-icon icon-name='announcement' icon-class='zcicn-announcement'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-announcement(zcicn-announcement-colored)": {
+        "prefix": "util-announcement(zcicn-announcement-colored)",
+        "body": [
+            "<crmutil-icon icon-name='announcement' icon-class='zcicn-announcement zcicn-announcement-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-bulb": {
+        "prefix": "util-bulb",
+        "body": [
+            "<crmutil-icon icon-name='bulb' icon-class='zcicn-bulb'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-bulb(zcicn-bulb-colored)": {
+        "prefix": "util-bulb(zcicn-bulb-colored)",
+        "body": [
+            "<crmutil-icon icon-name='bulb' icon-class='zcicn-bulb zcicn-bulb-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-bulb-reg-colored": {
+        "prefix": "util-bulb-reg-colored",
+        "body": [
+            "<crmutil-icon icon-name='bulb-reg-colored' icon-class='zcicn-bulb-reg-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-blue-filled(zcicn16)": {
+        "prefix": "util-call-blue-filled(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='call-blue-filled' icon-class='zcicn-call-blue-filled zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-incoming(zcicn-color-plain)": {
+        "prefix": "util-call-incoming(zcicn-color-plain)",
+        "body": [
+            "<crmutil-icon icon-name='call-incoming' icon-class='zcicn-call-incoming zcicn-color-plain'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-outgoing(zcicn-color-plain)": {
+        "prefix": "util-call-outgoing(zcicn-color-plain)",
+        "body": [
+            "<crmutil-icon icon-name='call-outgoing' icon-class='zcicn-call-outgoing zcicn-color-plain'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-cancelled(zcicn-color-plain)": {
+        "prefix": "util-call-cancelled(zcicn-color-plain)",
+        "body": [
+            "<crmutil-icon icon-name='call-cancelled' icon-class='zcicn-call-cancelled zcicn-color-plain'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-overdue(zcicn-color-plain)": {
+        "prefix": "util-call-overdue(zcicn-color-plain)",
+        "body": [
+            "<crmutil-icon icon-name='call-overdue' icon-class='zcicn-call-overdue zcicn-color-plain'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-missed(zcicn-color-plain)": {
+        "prefix": "util-call-missed(zcicn-color-plain)",
+        "body": [
+            "<crmutil-icon icon-name='call-missed' icon-class='zcicn-call-missed zcicn-color-plain'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-scheduled(zcicn-color-plain)": {
+        "prefix": "util-call-scheduled(zcicn-color-plain)",
+        "body": [
+            "<crmutil-icon icon-name='call-scheduled' icon-class='zcicn-call-scheduled zcicn-color-plain'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-incoming(zcicn-color-mixed)": {
+        "prefix": "util-call-incoming(zcicn-color-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='call-incoming' icon-class='zcicn-call-incoming zcicn-color-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-outgoing(zcicn-color-mixed)": {
+        "prefix": "util-call-outgoing(zcicn-color-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='call-outgoing' icon-class='zcicn-call-outgoing zcicn-color-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-cancelled(zcicn-color-mixed)": {
+        "prefix": "util-call-cancelled(zcicn-color-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='call-cancelled' icon-class='zcicn-call-cancelled zcicn-color-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-overdue(zcicn-color-mixed)": {
+        "prefix": "util-call-overdue(zcicn-color-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='call-overdue' icon-class='zcicn-call-overdue zcicn-color-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-missed(zcicn-color-mixed)": {
+        "prefix": "util-call-missed(zcicn-color-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='call-missed' icon-class='zcicn-call-missed zcicn-color-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-call-scheduled(zcicn-color-mixed)": {
+        "prefix": "util-call-scheduled(zcicn-color-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='call-scheduled' icon-class='zcicn-call-scheduled zcicn-color-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-calls": {
+        "prefix": "util-calls",
+        "body": [
+            "<crmutil-icon icon-name='calls' icon-class='zcicn-calls'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chat-curved(zcicn14)": {
+        "prefix": "util-chat-curved(zcicn14)",
+        "body": [
+            "<crmutil-icon icon-name='chat-curved' icon-class='zcicn-chat-curved zcicn14'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chat-received(zcicn16)": {
+        "prefix": "util-chat-received(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='chat-received' icon-class='zcicn-chat-received zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chat-missed(zcicn16)": {
+        "prefix": "util-chat-missed(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='chat-missed' icon-class='zcicn-chat-missed zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chat-curved-plain(zcicn16)": {
+        "prefix": "util-chat-curved-plain(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='chat-curved-plain' icon-class='zcicn-chat-curved-plain zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chat-conversation(zcicn16 zcicn-chat-conversation-colored)": {
+        "prefix": "util-chat-conversation(zcicn16 zcicn-chat-conversation-colored)",
+        "body": [
+            "<crmutil-icon icon-name='chat-conversation' icon-class='zcicn-chat-conversation zcicn16 zcicn-chat-conversation-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chat-conversation(zcicn16)": {
+        "prefix": "util-chat-conversation(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='chat-conversation' icon-class='zcicn-chat-conversation zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-bar": {
+        "prefix": "util-chart-bar",
+        "body": [
+            "<crmutil-icon icon-name='chart-bar' icon-class='zcicn-chart-bar'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-bar-reg(zcicn-chart-column-grey-multi)": {
+        "prefix": "util-chart-bar-reg(zcicn-chart-column-grey-multi)",
+        "body": [
+            "<crmutil-icon icon-name='chart-bar-reg' icon-class='zcicn-chart-bar-reg zcicn-chart-column-grey-multi'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-bar-reg(zcicn-chart-bar-reg-colored)": {
+        "prefix": "util-chart-bar-reg(zcicn-chart-bar-reg-colored)",
+        "body": [
+            "<crmutil-icon icon-name='chart-bar-reg' icon-class='zcicn-chart-bar-reg zcicn-chart-bar-reg-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-column(zcicn-chart-column-grey-multi)": {
+        "prefix": "util-chart-column(zcicn-chart-column-grey-multi)",
+        "body": [
+            "<crmutil-icon icon-name='chart-column' icon-class='zcicn-chart-column zcicn-chart-column-grey-multi'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-column(zcicn-chart-column-colored)": {
+        "prefix": "util-chart-column(zcicn-chart-column-colored)",
+        "body": [
+            "<crmutil-icon icon-name='chart-column' icon-class='zcicn-chart-column zcicn-chart-column-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-pie(zcicn-chart-pie-grey-multi)": {
+        "prefix": "util-chart-pie(zcicn-chart-pie-grey-multi)",
+        "body": [
+            "<crmutil-icon icon-name='chart-pie' icon-class='zcicn-chart-pie zcicn-chart-pie-grey-multi'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-pie(zcicn-chart-pie-colored)": {
+        "prefix": "util-chart-pie(zcicn-chart-pie-colored)",
+        "body": [
+            "<crmutil-icon icon-name='chart-pie' icon-class='zcicn-chart-pie zcicn-chart-pie-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-donut(zcicn-chart-donut-grey-multi)": {
+        "prefix": "util-chart-donut(zcicn-chart-donut-grey-multi)",
+        "body": [
+            "<crmutil-icon icon-name='chart-donut' icon-class='zcicn-chart-donut zcicn-chart-donut-grey-multi'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-donut(zcicn-chart-donut-colored)": {
+        "prefix": "util-chart-donut(zcicn-chart-donut-colored)",
+        "body": [
+            "<crmutil-icon icon-name='chart-donut' icon-class='zcicn-chart-donut zcicn-chart-donut-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-list": {
+        "prefix": "util-chart-list",
+        "body": [
+            "<crmutil-icon icon-name='chart-list' icon-class='zcicn-chart-list'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-chart-list(zcicn-chart-list-colored)": {
+        "prefix": "util-chart-list(zcicn-chart-list-colored)",
+        "body": [
+            "<crmutil-icon icon-name='chart-list' icon-class='zcicn-chart-list zcicn-chart-list-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-column-add": {
+        "prefix": "util-column-add",
+        "body": [
+            "<crmutil-icon icon-name='column-add' icon-class='zcicn-column-add'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-column-arrange": {
+        "prefix": "util-column-arrange",
+        "body": [
+            "<crmutil-icon icon-name='column-arrange' icon-class='zcicn-column-arrange'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-column-reset": {
+        "prefix": "util-column-reset",
+        "body": [
+            "<crmutil-icon icon-name='column-reset' icon-class='zcicn-column-reset'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-delete-line": {
+        "prefix": "util-delete-line",
+        "body": [
+            "<crmutil-icon icon-name='delete-line' icon-class='zcicn-delete-line'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-delete-md(zcicn12)": {
+        "prefix": "util-delete-md(zcicn12)",
+        "body": [
+            "<crmutil-icon icon-name='delete-md' icon-class='zcicn-delete-md zcicn12'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-delete-line(zcicn-deleteHover)": {
+        "prefix": "util-delete-line(zcicn-deleteHover)",
+        "body": [
+            "<crmutil-icon icon-name='delete-line' icon-class='zcicn-delete-line zcicn-deleteHover'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-delete-md(zcicn12 zcicn-deleteHover)": {
+        "prefix": "util-delete-md(zcicn12 zcicn-deleteHover)",
+        "body": [
+            "<crmutil-icon icon-name='delete-md' icon-class='zcicn-delete-md zcicn12 zcicn-deleteHover'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-support-avatar(zcicn16)": {
+        "prefix": "util-support-avatar(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='support-avatar' icon-class='zcicn-support-avatar zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-monitor-avatar": {
+        "prefix": "util-monitor-avatar",
+        "body": [
+            "<crmutil-icon icon-name='monitor-avatar' icon-class='zcicn-monitor-avatar'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-phone-green-filled": {
+        "prefix": "util-phone-green-filled",
+        "body": [
+            "<crmutil-icon icon-name='phone-green-filled' icon-class='zcicn-phone-green-filled'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-fax-yellow-filled": {
+        "prefix": "util-fax-yellow-filled",
+        "body": [
+            "<crmutil-icon icon-name='fax-yellow-filled' icon-class='zcicn-fax-yellow-filled '></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-zoho-workdrive": {
+        "prefix": "util-zoho-workdrive",
+        "body": [
+            "<crmutil-icon icon-name='zoho-workdrive' icon-class='zcicn-zoho-workdrive'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-zoho-workdrive-blue": {
+        "prefix": "util-zoho-workdrive-blue",
+        "body": [
+            "<crmutil-icon icon-name='zoho-workdrive-blue' icon-class='zcicn-zoho-workdrive-blue'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-zoho-docs": {
+        "prefix": "util-zoho-docs",
+        "body": [
+            "<crmutil-icon icon-name='zoho-docs' icon-class='zcicn-zoho-docs'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-edit-solid(zcicn16)": {
+        "prefix": "util-edit-solid(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='edit-solid' icon-class='zcicn-edit-solid zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-edit-filled-md(zcicn12)": {
+        "prefix": "util-edit-filled-md(zcicn12)",
+        "body": [
+            "<crmutil-icon icon-name='edit-filled-md' icon-class='zcicn-edit-filled-md zcicn12'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-field-update": {
+        "prefix": "util-field-update",
+        "body": [
+            "<crmutil-icon icon-name='field-update' icon-class='zcicn-field-update'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-edit-solid(zcicn16 zcicn-editHover)": {
+        "prefix": "util-edit-solid(zcicn16 zcicn-editHover)",
+        "body": [
+            "<crmutil-icon icon-name='edit-solid' icon-class='zcicn-edit-solid zcicn16 zcicn-editHover'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-edit-filled-md(zcicn12 zcicn-editHover)": {
+        "prefix": "util-edit-filled-md(zcicn12 zcicn-editHover)",
+        "body": [
+            "<crmutil-icon icon-name='edit-filled-md' icon-class='zcicn-edit-filled-md zcicn12 zcicn-editHover'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emoji-smile(zcicn16)": {
+        "prefix": "util-emoji-smile(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='emoji-smile' icon-class='zcicn-emoji-smile zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emoji-sad(zcicn16)": {
+        "prefix": "util-emoji-sad(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='emoji-sad' icon-class='zcicn-emoji-sad zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emoji-anger(zcicn16)": {
+        "prefix": "util-emoji-anger(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='emoji-anger' icon-class='zcicn-emoji-anger zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emoji-cool(zcicn16)": {
+        "prefix": "util-emoji-cool(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='emoji-cool' icon-class='zcicn-emoji-cool zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emoji-smile(zcicn16 zcicn-green-bg-filled )": {
+        "prefix": "util-emoji-smile(zcicn16 zcicn-green-bg-filled )",
+        "body": [
+            "<crmutil-icon icon-name='emoji-smile' icon-class='zcicn-emoji-smile zcicn16 zcicn-green-bg-filled '></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emoji-sad(zcicn16 zcicn-yellow-bg-filled)": {
+        "prefix": "util-emoji-sad(zcicn16 zcicn-yellow-bg-filled)",
+        "body": [
+            "<crmutil-icon icon-name='emoji-sad' icon-class='zcicn-emoji-sad zcicn16 zcicn-yellow-bg-filled'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emoji-anger(zcicn16 zcicn-red-bg-filled)": {
+        "prefix": "util-emoji-anger(zcicn16 zcicn-red-bg-filled)",
+        "body": [
+            "<crmutil-icon icon-name='emoji-anger' icon-class='zcicn-emoji-anger zcicn16 zcicn-red-bg-filled'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emoji-cool(zcicn16 zcicn-blue-bg-filled)": {
+        "prefix": "util-emoji-cool(zcicn16 zcicn-blue-bg-filled)",
+        "body": [
+            "<crmutil-icon icon-name='emoji-cool' icon-class='zcicn-emoji-cool zcicn16 zcicn-blue-bg-filled'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-frustration(zcicn-red-bg-filled)": {
+        "prefix": "util-frustration(zcicn-red-bg-filled)",
+        "body": [
+            "<crmutil-icon icon-name='frustration' icon-class='zcicn-frustration zcicn-red-bg-filled'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-filter": {
+        "prefix": "util-filter",
+        "body": [
+            "<crmutil-icon icon-name='filter' icon-class='zcicn-filter'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-filter-closed": {
+        "prefix": "util-filter-closed",
+        "body": [
+            "<crmutil-icon icon-name='filter-closed' icon-class='zcicn-filter-closed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-gamification": {
+        "prefix": "util-gamification",
+        "body": [
+            "<crmutil-icon icon-name='gamification' icon-class='zcicn-gamification'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-help": {
+        "prefix": "util-help",
+        "body": [
+            "<crmutil-icon icon-name='help' icon-class='zcicn-help'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-help-square": {
+        "prefix": "util-help-square",
+        "body": [
+            "<crmutil-icon icon-name='help-square' icon-class='zcicn-help-square'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-info-rounded": {
+        "prefix": "util-info-rounded",
+        "body": [
+            "<crmutil-icon icon-name='info-rounded' icon-class='zcicn-info-rounded'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-info-solid": {
+        "prefix": "util-info-solid",
+        "body": [
+            "<crmutil-icon icon-name='info-solid' icon-class='zcicn-info-solid'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-location": {
+        "prefix": "util-location",
+        "body": [
+            "<crmutil-icon icon-name='location' icon-class='zcicn-location'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-location-green-filled": {
+        "prefix": "util-location-green-filled",
+        "body": [
+            "<crmutil-icon icon-name='location-green-filled' icon-class='zcicn-location-green-filled'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-link": {
+        "prefix": "util-link",
+        "body": [
+            "<crmutil-icon icon-name='link' icon-class='zcicn-link'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-link(zcicn-link-blue-filled)": {
+        "prefix": "util-link(zcicn-link-blue-filled)",
+        "body": [
+            "<crmutil-icon icon-name='link' icon-class='zcicn-link zcicn-link-blue-filled'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-emails": {
+        "prefix": "util-emails",
+        "body": [
+            "<crmutil-icon icon-name='emails' icon-class='zcicn-emails'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-envolope": {
+        "prefix": "util-mail-envolope",
+        "body": [
+            "<crmutil-icon icon-name='mail-envolope' icon-class='zcicn-mail-envolope'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-envolope(zcicn-mail-envolope-colored)": {
+        "prefix": "util-mail-envolope(zcicn-mail-envolope-colored)",
+        "body": [
+            "<crmutil-icon icon-name='mail-envolope' icon-class='zcicn-mail-envolope zcicn-mail-envolope-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-opened": {
+        "prefix": "util-mail-opened",
+        "body": [
+            "<crmutil-icon icon-name='mail-opened' icon-class='zcicn-mail-opened'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-clicked": {
+        "prefix": "util-mail-clicked",
+        "body": [
+            "<crmutil-icon icon-name='mail-clicked' icon-class='zcicn-mail-clicked'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-bounce": {
+        "prefix": "util-mail-bounce",
+        "body": [
+            "<crmutil-icon icon-name='mail-bounce' icon-class='zcicn-mail-bounce'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-received(zcicn-color-blue-mixed)": {
+        "prefix": "util-mail-received(zcicn-color-blue-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='mail-received' icon-class='zcicn-mail-received zcicn-color-blue-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-sent(zcicn-color-green-mixed)": {
+        "prefix": "util-mail-sent(zcicn-color-green-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='mail-sent' icon-class='zcicn-mail-sent zcicn-color-green-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-sent(zcicn-mail-sent-solid)": {
+        "prefix": "util-mail-sent(zcicn-mail-sent-solid)",
+        "body": [
+            "<crmutil-icon icon-name='mail-sent' icon-class='zcicn-mail-sent zcicn-mail-sent-solid'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-unsubscribed": {
+        "prefix": "util-mail-unsubscribed",
+        "body": [
+            "<crmutil-icon icon-name='mail-unsubscribed' icon-class='zcicn-mail-unsubscribed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-log": {
+        "prefix": "util-mail-log",
+        "body": [
+            "<crmutil-icon icon-name='mail-log' icon-class='zcicn-mail-log'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-tracking": {
+        "prefix": "util-mail-tracking",
+        "body": [
+            "<crmutil-icon icon-name='mail-tracking' icon-class='zcicn-mail-tracking'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-tracking(zcicn-mail-tracking-colored)": {
+        "prefix": "util-mail-tracking(zcicn-mail-tracking-colored)",
+        "body": [
+            "<crmutil-icon icon-name='mail-tracking' icon-class='zcicn-mail-tracking zcicn-mail-tracking-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-info(zcicn-color-red-mixed)": {
+        "prefix": "util-mail-info(zcicn-color-red-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='mail-info' icon-class='zcicn-mail-info zcicn-color-red-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-scheduled(zcicn-color-yellow-mixed)": {
+        "prefix": "util-mail-scheduled(zcicn-color-yellow-mixed)",
+        "body": [
+            "<crmutil-icon icon-name='mail-scheduled' icon-class='zcicn-mail-scheduled zcicn-color-yellow-mixed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-mail-edit": {
+        "prefix": "util-mail-edit",
+        "body": [
+            "<crmutil-icon icon-name='mail-edit' icon-class='zcicn-mail-edit'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-minus-rounded": {
+        "prefix": "util-minus-rounded",
+        "body": [
+            "<crmutil-icon icon-name='minus-rounded' icon-class='zcicn-minus-rounded'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-minus-square": {
+        "prefix": "util-minus-square",
+        "body": [
+            "<crmutil-icon icon-name='minus-square' icon-class='zcicn-minus-square'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-more-hr": {
+        "prefix": "util-more-hr",
+        "body": [
+            "<crmutil-icon icon-name='more-hr' icon-class='zcicn-more-hr'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-more-vr": {
+        "prefix": "util-more-vr",
+        "body": [
+            "<crmutil-icon icon-name='more-vr' icon-class='zcicn-more-vr'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-more-hr-md(zcicn_636f86 moreBgBr)": {
+        "prefix": "util-more-hr-md(zcicn_636f86 moreBgBr)",
+        "body": [
+            "<crmutil-icon icon-name='more-hr-md' icon-class='zcicn-more-hr-md zcicn_636f86 moreBgBr'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-more-hr-md": {
+        "prefix": "util-more-hr-md",
+        "body": [
+            "<crmutil-icon icon-name='more-hr-md' icon-class='zcicn-more-hr-md'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-more-hr-md(zcicn-rotate-90)": {
+        "prefix": "util-more-hr-md(zcicn-rotate-90)",
+        "body": [
+            "<crmutil-icon icon-name='more-hr-md' icon-class='zcicn-more-hr-md zcicn-rotate-90'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-marketplace": {
+        "prefix": "util-marketplace",
+        "body": [
+            "<crmutil-icon icon-name='marketplace' icon-class='zcicn-marketplace'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-messageboard": {
+        "prefix": "util-messageboard",
+        "body": [
+            "<crmutil-icon icon-name='messageboard' icon-class='zcicn-messageboard'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-messages": {
+        "prefix": "util-messages",
+        "body": [
+            "<crmutil-icon icon-name='messages' icon-class='zcicn-messages'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-message(zcicn-message-colored)": {
+        "prefix": "util-message(zcicn-message-colored)",
+        "body": [
+            "<crmutil-icon icon-name='message' icon-class='zcicn-message zcicn-message-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-message-missed": {
+        "prefix": "util-message-missed",
+        "body": [
+            "<crmutil-icon icon-name='message-missed' icon-class='zcicn-message-missed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-message-missed(zcicn-message-missed-colored)": {
+        "prefix": "util-message-missed(zcicn-message-missed-colored)",
+        "body": [
+            "<crmutil-icon icon-name='message-missed' icon-class='zcicn-message-missed zcicn-message-missed-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-notes": {
+        "prefix": "util-notes",
+        "body": [
+            "<crmutil-icon icon-name='notes' icon-class='zcicn-notes'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-notes-added": {
+        "prefix": "util-notes-added",
+        "body": [
+            "<crmutil-icon icon-name='notes-added' icon-class='zcicn-notes-added'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-stickynotes": {
+        "prefix": "util-stickynotes",
+        "body": [
+            "<crmutil-icon icon-name='stickynotes' icon-class='zcicn-stickynotes'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-notify": {
+        "prefix": "util-notify",
+        "body": [
+            "<crmutil-icon icon-name='notify' icon-class='zcicn-notify'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-plus-rounded": {
+        "prefix": "util-plus-rounded",
+        "body": [
+            "<crmutil-icon icon-name='plus-rounded' icon-class='zcicn-plus-rounded'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-plus-square": {
+        "prefix": "util-plus-square",
+        "body": [
+            "<crmutil-icon icon-name='plus-square' icon-class='zcicn-plus-square'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-notallowed": {
+        "prefix": "util-notallowed",
+        "body": [
+            "<crmutil-icon icon-name='notallowed' icon-class='zcicn-notallowed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-search": {
+        "prefix": "util-search",
+        "body": [
+            "<crmutil-icon icon-name='search' icon-class='zcicn-search'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-searchRegular": {
+        "prefix": "util-searchRegular",
+        "body": [
+            "<crmutil-icon icon-name='searchRegular' icon-class='zcicn-searchRegular'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-settings": {
+        "prefix": "util-settings",
+        "body": [
+            "<crmutil-icon icon-name='settings' icon-class='zcicn-settings'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-settings-reg": {
+        "prefix": "util-settings-reg",
+        "body": [
+            "<crmutil-icon icon-name='settings-reg' icon-class='zcicn-settings-reg'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-social-facebook": {
+        "prefix": "util-social-facebook",
+        "body": [
+            "<crmutil-icon icon-name='social-facebook' icon-class='zcicn-social-facebook'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-social-facebook(zcicn-social-facebook-colored)": {
+        "prefix": "util-social-facebook(zcicn-social-facebook-colored)",
+        "body": [
+            "<crmutil-icon icon-name='social-facebook' icon-class='zcicn-social-facebook zcicn-social-facebook-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-social-twiter": {
+        "prefix": "util-social-twiter",
+        "body": [
+            "<crmutil-icon icon-name='social-twiter' icon-class='zcicn-social-twiter'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-social-twiter(zcicn-social-twiter-colored)": {
+        "prefix": "util-social-twiter(zcicn-social-twiter-colored)",
+        "body": [
+            "<crmutil-icon icon-name='social-twiter' icon-class='zcicn-social-twiter zcicn-social-twiter-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-survey-responce": {
+        "prefix": "util-survey-responce",
+        "body": [
+            "<crmutil-icon icon-name='survey-responce' icon-class='zcicn-survey-responce'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-survey-responce(zcicn-survey-responce-colored)": {
+        "prefix": "util-survey-responce(zcicn-survey-responce-colored)",
+        "body": [
+            "<crmutil-icon icon-name='survey-responce' icon-class='zcicn-survey-responce zcicn-survey-responce-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-summary-intent": {
+        "prefix": "util-summary-intent",
+        "body": [
+            "<crmutil-icon icon-name='summary-intent' icon-class='zcicn-summary-intent'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-summary-channel": {
+        "prefix": "util-summary-channel",
+        "body": [
+            "<crmutil-icon icon-name='summary-channel' icon-class='zcicn-summary-channel'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-summary-segment": {
+        "prefix": "util-summary-segment",
+        "body": [
+            "<crmutil-icon icon-name='summary-segment' icon-class='zcicn-summary-segment'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-summary-keyword": {
+        "prefix": "util-summary-keyword",
+        "body": [
+            "<crmutil-icon icon-name='summary-keyword' icon-class='zcicn-summary-keyword'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-summary-swot": {
+        "prefix": "util-summary-swot",
+        "body": [
+            "<crmutil-icon icon-name='summary-swot' icon-class='zcicn-summary-swot'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-timer(zcicn16)": {
+        "prefix": "util-timer(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='timer' icon-class='zcicn-timer zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-timer-recent": {
+        "prefix": "util-timer-recent",
+        "body": [
+            "<crmutil-icon icon-name='timer-recent' icon-class='zcicn-timer-recent'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-alarm": {
+        "prefix": "util-alarm",
+        "body": [
+            "<crmutil-icon icon-name='alarm' icon-class='zcicn-alarm'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-timeout(zcicn16)": {
+        "prefix": "util-timeout(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='timeout' icon-class='zcicn-timeout zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-ticket-new": {
+        "prefix": "util-ticket-new",
+        "body": [
+            "<crmutil-icon icon-name='ticket-new' icon-class='zcicn-ticket-new'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-ticket-comments": {
+        "prefix": "util-ticket-comments",
+        "body": [
+            "<crmutil-icon icon-name='ticket-comments' icon-class='zcicn-ticket-comments'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-ticket-overdue": {
+        "prefix": "util-ticket-overdue",
+        "body": [
+            "<crmutil-icon icon-name='ticket-overdue' icon-class='zcicn-ticket-overdue'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-ticket-escalation": {
+        "prefix": "util-ticket-escalation",
+        "body": [
+            "<crmutil-icon icon-name='ticket-escalation' icon-class='zcicn-ticket-escalation'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-ticket-rating": {
+        "prefix": "util-ticket-rating",
+        "body": [
+            "<crmutil-icon icon-name='ticket-rating' icon-class='zcicn-ticket-rating'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-star(zcicn12)": {
+        "prefix": "util-star(zcicn12)",
+        "body": [
+            "<crmutil-icon icon-name='star' icon-class='zcicn-star zcicn12'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-star-line": {
+        "prefix": "util-star-line",
+        "body": [
+            "<crmutil-icon icon-name='star-line' icon-class='zcicn-star-line'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-star-yellow-colored": {
+        "prefix": "util-star-yellow-colored",
+        "body": [
+            "<crmutil-icon icon-name='star-yellow-colored' icon-class='zcicn-star-yellow-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-favourite(zcicn-stroke zcicn16)": {
+        "prefix": "util-favourite(zcicn-stroke zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='favourite' icon-class='zcicn-favourite zcicn-stroke zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-favourite(zcicn16)": {
+        "prefix": "util-favourite(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='favourite' icon-class='zcicn-favourite zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-multi-star": {
+        "prefix": "util-multi-star",
+        "body": [
+            "<crmutil-icon icon-name='multi-star' icon-class='zcicn-multi-star'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-thumbs-down": {
+        "prefix": "util-thumbs-down",
+        "body": [
+            "<crmutil-icon icon-name='thumbs-down' icon-class='zcicn-thumbs-down'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-thumbs-up-solid": {
+        "prefix": "util-thumbs-up-solid",
+        "body": [
+            "<crmutil-icon icon-name='thumbs-up-solid' icon-class='zcicn-thumbs-up-solid'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-thumbs-up-solid(zcicn-thumbs-down-solid)": {
+        "prefix": "util-thumbs-up-solid(zcicn-thumbs-down-solid)",
+        "body": [
+            "<crmutil-icon icon-name='thumbs-up-solid' icon-class='zcicn-thumbs-up-solid zcicn-thumbs-down-solid'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-user-search": {
+        "prefix": "util-user-search",
+        "body": [
+            "<crmutil-icon icon-name='user-search' icon-class='zcicn-user-search'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-users-group": {
+        "prefix": "util-users-group",
+        "body": [
+            "<crmutil-icon icon-name='users-group' icon-class='zcicn-users-group'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nouser": {
+        "prefix": "util-nouser",
+        "body": [
+            "<crmutil-icon icon-name='nouser' icon-class='zcicn-nouser'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-listview": {
+        "prefix": "util-listview",
+        "body": [
+            "<crmutil-icon icon-name='listview' icon-class='zcicn-listview'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-kanbanview": {
+        "prefix": "util-kanbanview",
+        "body": [
+            "<crmutil-icon icon-name='kanbanview' icon-class='zcicn-kanbanview'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-canvasview": {
+        "prefix": "util-canvasview",
+        "body": [
+            "<crmutil-icon icon-name='canvasview' icon-class='zcicn-canvasview'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-map-view": {
+        "prefix": "util-map-view",
+        "body": [
+            "<crmutil-icon icon-name='map-view' icon-class='zcicn-map-view'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-table-view": {
+        "prefix": "util-table-view",
+        "body": [
+            "<crmutil-icon icon-name='table-view' icon-class='zcicn-table-view'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-dashboardview": {
+        "prefix": "util-dashboardview",
+        "body": [
+            "<crmutil-icon icon-name='dashboardview' icon-class='zcicn-dashboardview'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-listview-custom": {
+        "prefix": "util-listview-custom",
+        "body": [
+            "<crmutil-icon icon-name='listview-custom' icon-class='zcicn-listview-custom'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-tileview-canvas": {
+        "prefix": "util-tileview-canvas",
+        "body": [
+            "<crmutil-icon icon-name='tileview-canvas' icon-class='zcicn-tileview-canvas'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-tableview-canvas": {
+        "prefix": "util-tableview-canvas",
+        "body": [
+            "<crmutil-icon icon-name='tableview-canvas' icon-class='zcicn-tableview-canvas'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-warning-rounded(zcicn16)": {
+        "prefix": "util-warning-rounded(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='warning-rounded' icon-class='zcicn-warning-rounded zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-alert-filled(zcicn12)": {
+        "prefix": "util-alert-filled(zcicn12)",
+        "body": [
+            "<crmutil-icon icon-name='alert-filled' icon-class='zcicn-alert-filled zcicn12'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-gift": {
+        "prefix": "util-gift",
+        "body": [
+            "<crmutil-icon icon-name='gift' icon-class='zcicn-gift'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-refer": {
+        "prefix": "util-refer",
+        "body": [
+            "<crmutil-icon icon-name='refer' icon-class='zcicn-refer'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-fieldupdate-blue-filled": {
+        "prefix": "util-fieldupdate-blue-filled",
+        "body": [
+            "<crmutil-icon icon-name='fieldupdate-blue-filled' icon-class='zcicn-fieldupdate-blue-filled'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-voiceofcustomer": {
+        "prefix": "util-voiceofcustomer",
+        "body": [
+            "<crmutil-icon icon-name='voiceofcustomer' icon-class='zcicn-voiceofcustomer'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-voiceofcustomer(zcicn-voiceofcustomer-blue)": {
+        "prefix": "util-voiceofcustomer(zcicn-voiceofcustomer-blue)",
+        "body": [
+            "<crmutil-icon icon-name='voiceofcustomer' icon-class='zcicn-voiceofcustomer zcicn-voiceofcustomer-blue'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-checkbox": {
+        "prefix": "util-checkbox",
+        "body": [
+            "<crmutil-icon icon-name='checkbox' icon-class='zcicn-checkbox'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-zia-logo": {
+        "prefix": "util-zia-logo",
+        "body": [
+            "<crmutil-icon icon-name='zia-logo' icon-class='zcicn-zia-logo'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-motivator(zcicn14)": {
+        "prefix": "util-motivator(zcicn14)",
+        "body": [
+            "<crmutil-icon icon-name='motivator' icon-class='zcicn-motivator zcicn14'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-expand-sm": {
+        "prefix": "util-expand-sm",
+        "body": [
+            "<crmutil-icon icon-name='expand-sm' icon-class='zcicn-expand-sm'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-expand-sm(zcicn-expand-blue-filled-colored)": {
+        "prefix": "util-expand-sm(zcicn-expand-blue-filled-colored)",
+        "body": [
+            "<crmutil-icon icon-name='expand-sm' icon-class='zcicn-expand-sm zcicn-expand-blue-filled-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-demo": {
+        "prefix": "util-demo",
+        "body": [
+            "<crmutil-icon icon-name='demo' icon-class='zcicn-demo'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-create(zcicn-createModule-topband)": {
+        "prefix": "util-create(zcicn-createModule-topband)",
+        "body": [
+            "<crmutil-icon icon-name='create' icon-class='zcicn-create zcicn-createModule-topband'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-bolt": {
+        "prefix": "util-bolt",
+        "body": [
+            "<crmutil-icon icon-name='bolt' icon-class='zcicn-bolt'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-thumbtack": {
+        "prefix": "util-thumbtack",
+        "body": [
+            "<crmutil-icon icon-name='thumbtack' icon-class='zcicn-thumbtack'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-thumbuntack": {
+        "prefix": "util-thumbuntack",
+        "body": [
+            "<crmutil-icon icon-name='thumbuntack' icon-class='zcicn-thumbuntack'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-fullscreen": {
+        "prefix": "util-fullscreen",
+        "body": [
+            "<crmutil-icon icon-name='fullscreen' icon-class='zcicn-fullscreen'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-copy-clip": {
+        "prefix": "util-copy-clip",
+        "body": [
+            "<crmutil-icon icon-name='copy-clip' icon-class='zcicn-copy-clip'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-changeowner": {
+        "prefix": "util-changeowner",
+        "body": [
+            "<crmutil-icon icon-name='changeowner' icon-class='zcicn-changeowner'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-details": {
+        "prefix": "util-details",
+        "body": [
+            "<crmutil-icon icon-name='details' icon-class='zcicn-details'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-trophy": {
+        "prefix": "util-trophy",
+        "body": [
+            "<crmutil-icon icon-name='trophy' icon-class='zcicn-trophy'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-globe(zcicn16)": {
+        "prefix": "util-globe(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='globe' icon-class='zcicn-globe zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-backstage(zcicn16)": {
+        "prefix": "util-backstage(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='backstage' icon-class='zcicn-backstage zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-backstage(zcicn-backstage-colored zcicn16)": {
+        "prefix": "util-backstage(zcicn-backstage-colored zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='backstage' icon-class='zcicn-backstage zcicn-backstage-colored zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-slide": {
+        "prefix": "util-slide",
+        "body": [
+            "<crmutil-icon icon-name='slide' icon-class='zcicn-slide'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-shield-protected": {
+        "prefix": "util-shield-protected",
+        "body": [
+            "<crmutil-icon icon-name='shield-protected' icon-class='zcicn-shield-protected'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-handbag": {
+        "prefix": "util-handbag",
+        "body": [
+            "<crmutil-icon icon-name='handbag' icon-class='zcicn-handbag'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-email-footer": {
+        "prefix": "util-email-footer",
+        "body": [
+            "<crmutil-icon icon-name='email-footer' icon-class='zcicn-email-footer'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-timer-solid": {
+        "prefix": "util-timer-solid",
+        "body": [
+            "<crmutil-icon icon-name='timer-solid' icon-class='zcicn-timer-solid'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-pathfinder": {
+        "prefix": "util-pathfinder",
+        "body": [
+            "<crmutil-icon icon-name='pathfinder' icon-class='zcicn-pathfinder'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-onlinemeeting(zcicn-onlinemeeting-online)": {
+        "prefix": "util-onlinemeeting(zcicn-onlinemeeting-online)",
+        "body": [
+            "<crmutil-icon icon-name='onlinemeeting' icon-class='zcicn-onlinemeeting zcicn-onlinemeeting-online'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-reorder": {
+        "prefix": "util-reorder",
+        "body": [
+            "<crmutil-icon icon-name='reorder' icon-class='zcicn-reorder'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-manageitems": {
+        "prefix": "util-manageitems",
+        "body": [
+            "<crmutil-icon icon-name='manageitems' icon-class='zcicn-manageitems'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-gridview": {
+        "prefix": "util-gridview",
+        "body": [
+            "<crmutil-icon icon-name='gridview' icon-class='zcicn-gridview'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-docs": {
+        "prefix": "util-docs",
+        "body": [
+            "<crmutil-icon icon-name='docs' icon-class='zcicn-docs'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-takeAtour-colored": {
+        "prefix": "util-takeAtour-colored",
+        "body": [
+            "<crmutil-icon icon-name='takeAtour-colored' icon-class='zcicn-takeAtour-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-repeat": {
+        "prefix": "util-repeat",
+        "body": [
+            "<crmutil-icon icon-name='repeat' icon-class='zcicn-repeat'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-first-time": {
+        "prefix": "util-first-time",
+        "body": [
+            "<crmutil-icon icon-name='first-time' icon-class='zcicn-first-time'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-bundle": {
+        "prefix": "util-bundle",
+        "body": [
+            "<crmutil-icon icon-name='bundle' icon-class='zcicn-bundle'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-repeat-md": {
+        "prefix": "util-repeat-md",
+        "body": [
+            "<crmutil-icon icon-name='repeat-md' icon-class='zcicn-repeat-md'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-relationship": {
+        "prefix": "util-relationship",
+        "body": [
+            "<crmutil-icon icon-name='relationship' icon-class='zcicn-relationship'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-sequence": {
+        "prefix": "util-sequence",
+        "body": [
+            "<crmutil-icon icon-name='sequence' icon-class='zcicn-sequence'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-undo": {
+        "prefix": "util-undo",
+        "body": [
+            "<crmutil-icon icon-name='undo' icon-class='zcicn-undo'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-tick-filled-md": {
+        "prefix": "util-tick-filled-md",
+        "body": [
+            "<crmutil-icon icon-name='tick-filled-md' icon-class='zcicn-tick-filled-md'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-prediction": {
+        "prefix": "util-prediction",
+        "body": [
+            "<crmutil-icon icon-name='prediction' icon-class='zcicn-prediction'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-leaf": {
+        "prefix": "util-leaf",
+        "body": [
+            "<crmutil-icon icon-name='leaf' icon-class='zcicn-leaf'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-leaf(zcicn-leaf-colored)": {
+        "prefix": "util-leaf(zcicn-leaf-colored)",
+        "body": [
+            "<crmutil-icon icon-name='leaf' icon-class='zcicn-leaf zcicn-leaf-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-upload-image": {
+        "prefix": "util-upload-image",
+        "body": [
+            "<crmutil-icon icon-name='upload-image' icon-class='zcicn-upload-image'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-new-report": {
+        "prefix": "util-new-report",
+        "body": [
+            "<crmutil-icon icon-name='new-report' icon-class='zcicn-new-report '></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-new-dashboard": {
+        "prefix": "util-new-dashboard",
+        "body": [
+            "<crmutil-icon icon-name='new-dashboard' icon-class='zcicn-new-dashboard'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-ultimate(zcicn16)": {
+        "prefix": "util-ultimate(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='ultimate' icon-class='zcicn-ultimate zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-enterprise": {
+        "prefix": "util-enterprise",
+        "body": [
+            "<crmutil-icon icon-name='enterprise' icon-class='zcicn-enterprise'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-logout-colored(zcicn16)": {
+        "prefix": "util-logout-colored(zcicn16)",
+        "body": [
+            "<crmutil-icon icon-name='logout-colored' icon-class='zcicn-logout-colored zcicn16'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nxtGenGift-colored": {
+        "prefix": "util-nxtGenGift-colored",
+        "body": [
+            "<crmutil-icon icon-name='nxtGenGift-colored' icon-class='zcicn-nxtGenGift-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nxtGenRefer-colored": {
+        "prefix": "util-nxtGenRefer-colored",
+        "body": [
+            "<crmutil-icon icon-name='nxtGenRefer-colored' icon-class='zcicn-nxtGenRefer-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-viewPathway": {
+        "prefix": "util-viewPathway",
+        "body": [
+            "<crmutil-icon icon-name='viewPathway' icon-class='zcicn-viewPathway'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-pending-colored": {
+        "prefix": "util-pending-colored",
+        "body": [
+            "<crmutil-icon icon-name='pending-colored' icon-class='zcicn-pending-colored'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-approvals": {
+        "prefix": "util-approvals",
+        "body": [
+            "<crmutil-icon icon-name='approvals' icon-class='zcicn-approvals'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-noimage": {
+        "prefix": "util-noimage",
+        "body": [
+            "<crmutil-icon icon-name='noimage' icon-class='zcicn-noimage'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-skype": {
+        "prefix": "util-skype",
+        "body": [
+            "<crmutil-icon icon-name='skype' icon-class='zcicn-skype'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-earlyaccess": {
+        "prefix": "util-earlyaccess",
+        "body": [
+            "<crmutil-icon icon-name='earlyaccess' icon-class='zcicn-earlyaccess'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-beta": {
+        "prefix": "util-beta",
+        "body": [
+            "<crmutil-icon icon-name='beta' icon-class='zcicn-beta'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-forecastType": {
+        "prefix": "util-forecastType",
+        "body": [
+            "<crmutil-icon icon-name='forecastType' icon-class='zcicn-forecastType'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-forecastType(zcicn-rotate-180)": {
+        "prefix": "util-forecastType(zcicn-rotate-180)",
+        "body": [
+            "<crmutil-icon icon-name='forecastType' icon-class='zcicn-forecastType zcicn-rotate-180'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-forecastType(zcicn-topdownforecastType)": {
+        "prefix": "util-forecastType(zcicn-topdownforecastType)",
+        "body": [
+            "<crmutil-icon icon-name='forecastType' icon-class='zcicn-forecastType zcicn-topdownforecastType'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-forecastType(zcicn-bottomupforecastType zcicn-rotate-180)": {
+        "prefix": "util-forecastType(zcicn-bottomupforecastType zcicn-rotate-180)",
+        "body": [
+            "<crmutil-icon icon-name='forecastType' icon-class='zcicn-forecastType zcicn-bottomupforecastType zcicn-rotate-180'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nextgen-Modules": {
+        "prefix": "util-nextgen-Modules",
+        "body": [
+            "<crmutil-icon icon-name='nextgen-Modules' icon-class='zcicn-nextgen-Modules'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nextgen-Report": {
+        "prefix": "util-nextgen-Report",
+        "body": [
+            "<crmutil-icon icon-name='nextgen-Report' icon-class='zcicn-nextgen-Report'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nextgen-Dashboard": {
+        "prefix": "util-nextgen-Dashboard",
+        "body": [
+            "<crmutil-icon icon-name='nextgen-Dashboard' icon-class='zcicn-nextgen-Dashboard'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nextgen-Marketplace": {
+        "prefix": "util-nextgen-Marketplace",
+        "body": [
+            "<crmutil-icon icon-name='nextgen-Marketplace' icon-class='zcicn-nextgen-Marketplace'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nextgen-Search": {
+        "prefix": "util-nextgen-Search",
+        "body": [
+            "<crmutil-icon icon-name='nextgen-Search' icon-class='zcicn-nextgen-Search'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nextgen-Setup": {
+        "prefix": "util-nextgen-Setup",
+        "body": [
+            "<crmutil-icon icon-name='nextgen-Setup' icon-class='zcicn-nextgen-Setup'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-customersatisfaction": {
+        "prefix": "util-customersatisfaction",
+        "body": [
+            "<crmutil-icon icon-name='customersatisfaction' icon-class='zcicn-customersatisfaction'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-politeness": {
+        "prefix": "util-politeness",
+        "body": [
+            "<crmutil-icon icon-name='politeness' icon-class='zcicn-politeness'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-nextbestexperience": {
+        "prefix": "util-nextbestexperience",
+        "body": [
+            "<crmutil-icon icon-name='nextbestexperience' icon-class='zcicn-nextbestexperience'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-ziascore": {
+        "prefix": "util-ziascore",
+        "body": [
+            "<crmutil-icon icon-name='ziascore' icon-class='zcicn-ziascore'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-besttime": {
+        "prefix": "util-besttime",
+        "body": [
+            "<crmutil-icon icon-name='besttime' icon-class='zcicn-besttime'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-differenttime": {
+        "prefix": "util-differenttime",
+        "body": [
+            "<crmutil-icon icon-name='differenttime' icon-class='zcicn-differenttime'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-overallscore": {
+        "prefix": "util-overallscore",
+        "body": [
+            "<crmutil-icon icon-name='overallscore' icon-class='zcicn-overallscore'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-customerunderstanding": {
+        "prefix": "util-customerunderstanding",
+        "body": [
+            "<crmutil-icon icon-name='customerunderstanding' icon-class='zcicn-customerunderstanding'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-callpoliteness": {
+        "prefix": "util-callpoliteness",
+        "body": [
+            "<crmutil-icon icon-name='callpoliteness' icon-class='zcicn-callpoliteness'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-outgoingcalls": {
+        "prefix": "util-outgoingcalls",
+        "body": [
+            "<crmutil-icon icon-name='outgoingcalls' icon-class='zcicn-outgoingcalls'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-incomingcalls": {
+        "prefix": "util-incomingcalls",
+        "body": [
+            "<crmutil-icon icon-name='incomingcalls' icon-class='zcicn-incomingcalls'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-callsdone": {
+        "prefix": "util-callsdone",
+        "body": [
+            "<crmutil-icon icon-name='callsdone' icon-class='zcicn-callsdone'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-callstranscribed": {
+        "prefix": "util-callstranscribed",
+        "body": [
+            "<crmutil-icon icon-name='callstranscribed' icon-class='zcicn-callstranscribed'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-ziaGallery": {
+        "prefix": "util-ziaGallery",
+        "body": [
+            "<crmutil-icon icon-name='ziaGallery' icon-class='zcicn-ziaGallery'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-groupoutline": {
+        "prefix": "util-groupoutline",
+        "body": [
+            "<crmutil-icon icon-name='groupoutline' icon-class='zcicn-groupoutline'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-macrosuggestion": {
+        "prefix": "util-macrosuggestion",
+        "body": [
+            "<crmutil-icon icon-name='macrosuggestion' icon-class='zcicn-macrosuggestion'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "util-workflowsuggestion": {
+        "prefix": "util-workflowsuggestion",
+        "body": [
+            "<crmutil-icon icon-name='workflowsuggestion' icon-class='zcicn-workflowsuggestion'></crmutil-icon></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-arrow-up-lined": {
+        "prefix": "mask-zcicncss-arrow-up-lined",
+        "body": [
+            "<span class='zcicncss-arrow-up-lined zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-arrow-down-lined": {
+        "prefix": "mask-zcicncss-arrow-down-lined",
+        "body": [
+            "<span class='zcicncss-arrow-down-lined zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-arrow-back": {
+        "prefix": "mask-zcicncss-arrow-back",
+        "body": [
+            "<span class='zcicncss-arrow-back zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-arrow-front": {
+        "prefix": "mask-zcicncss-arrow-front",
+        "body": [
+            "<span class='zcicncss-arrow-front zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-arrow-sort": {
+        "prefix": "mask-zcicncss-arrow-sort",
+        "body": [
+            "<span class='zcicncss-arrow-sort zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-down-sm-mask": {
+        "prefix": "mask-zcicn-arrow-solid-down-sm-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-down-sm-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-up-sm-mask": {
+        "prefix": "mask-zcicn-arrow-solid-up-sm-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-up-sm-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-left-sm-mask": {
+        "prefix": "mask-zcicn-arrow-solid-left-sm-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-left-sm-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-right-sm-mask": {
+        "prefix": "mask-zcicn-arrow-solid-right-sm-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-right-sm-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-down-sm-mask": {
+        "prefix": "mask-zcicn-arrow-line-down-sm-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-down-sm-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-up-sm-mask": {
+        "prefix": "mask-zcicn-arrow-line-up-sm-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-up-sm-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-left-sm-mask": {
+        "prefix": "mask-zcicn-arrow-line-left-sm-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-left-sm-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-right-sm-mask": {
+        "prefix": "mask-zcicn-arrow-line-right-sm-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-right-sm-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-down-md-mask": {
+        "prefix": "mask-zcicn-arrow-solid-down-md-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-down-md-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-up-md-mask": {
+        "prefix": "mask-zcicn-arrow-solid-up-md-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-up-md-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-left-md-mask": {
+        "prefix": "mask-zcicn-arrow-solid-left-md-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-left-md-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-right-md-mask": {
+        "prefix": "mask-zcicn-arrow-solid-right-md-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-right-md-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-down-md-mask": {
+        "prefix": "mask-zcicn-arrow-line-down-md-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-down-md-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-up-md-mask": {
+        "prefix": "mask-zcicn-arrow-line-up-md-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-up-md-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-left-md-mask": {
+        "prefix": "mask-zcicn-arrow-line-left-md-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-left-md-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-right-md-mask": {
+        "prefix": "mask-zcicn-arrow-line-right-md-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-right-md-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-down-lg-mask": {
+        "prefix": "mask-zcicn-arrow-solid-down-lg-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-down-lg-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-up-lg-mask": {
+        "prefix": "mask-zcicn-arrow-solid-up-lg-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-up-lg-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-left-lg-mask": {
+        "prefix": "mask-zcicn-arrow-solid-left-lg-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-left-lg-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-solid-right-lg-mask": {
+        "prefix": "mask-zcicn-arrow-solid-right-lg-mask",
+        "body": [
+            "<span class='zcicn-arrow-solid-right-lg-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-down-lg-mask": {
+        "prefix": "mask-zcicn-arrow-line-down-lg-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-down-lg-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-up-lg-mask": {
+        "prefix": "mask-zcicn-arrow-line-up-lg-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-up-lg-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-left-lg-mask": {
+        "prefix": "mask-zcicn-arrow-line-left-lg-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-left-lg-mask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-arrow-line-right-lg-mask": {
+        "prefix": "mask-zcicn-arrow-line-right-lg-mask",
+        "body": [
+            "<span class='zcicn-arrow-line-right-lg-mask zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-arrowasc": {
+        "prefix": "mask-zcicncss-arrowasc",
+        "body": [
+            "<span class='zcicncss-arrowasc zcicn-cssIcons zcicn-rotate-180'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-attachments": {
+        "prefix": "mask-zcicncss-attachments",
+        "body": [
+            "<span class='zcicncss-attachments zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-successalert": {
+        "prefix": "mask-zcicncss-successalert",
+        "body": [
+            "<span class='zcicncss-successalert zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-infoalert": {
+        "prefix": "mask-zcicncss-infoalert",
+        "body": [
+            "<span class='zcicncss-infoalert zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-warningalert": {
+        "prefix": "mask-zcicncss-warningalert",
+        "body": [
+            "<span class='zcicncss-warningalert zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-notallowedalert": {
+        "prefix": "mask-zcicncss-notallowedalert",
+        "body": [
+            "<span class='zcicncss-notallowedalert zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-single-line": {
+        "prefix": "mask-zcicncss-single-line",
+        "body": [
+            "<span class='zcicncss-single-line zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-multi-line": {
+        "prefix": "mask-zcicncss-multi-line",
+        "body": [
+            "<span class='zcicncss-multi-line zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-picklist": {
+        "prefix": "mask-zcicncss-picklist",
+        "body": [
+            "<span class='zcicncss-picklist zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-multi-select": {
+        "prefix": "mask-zcicncss-multi-select",
+        "body": [
+            "<span class='zcicncss-multi-select zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-date": {
+        "prefix": "mask-zcicncss-date",
+        "body": [
+            "<span class='zcicncss-date zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-date-time": {
+        "prefix": "mask-zcicncss-date-time",
+        "body": [
+            "<span class='zcicncss-date-time zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-number": {
+        "prefix": "mask-zcicncss-number",
+        "body": [
+            "<span class='zcicncss-number zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-auto-number": {
+        "prefix": "mask-zcicncss-auto-number",
+        "body": [
+            "<span class='zcicncss-auto-number zcicn-cssIcons zcicncss14'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-currency": {
+        "prefix": "mask-zcicncss-currency",
+        "body": [
+            "<span class='zcicncss-currency zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-decimal": {
+        "prefix": "mask-zcicncss-decimal",
+        "body": [
+            "<span class='zcicncss-decimal zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-percent": {
+        "prefix": "mask-zcicncss-percent",
+        "body": [
+            "<span class='zcicncss-percent zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-long-integer": {
+        "prefix": "mask-zcicncss-long-integer",
+        "body": [
+            "<span class='zcicncss-long-integer zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-checkbox": {
+        "prefix": "mask-zcicncss-checkbox",
+        "body": [
+            "<span class='zcicncss-checkbox zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-image-upload": {
+        "prefix": "mask-zcicncss-image-upload",
+        "body": [
+            "<span class='zcicncss-image-upload zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-lookup": {
+        "prefix": "mask-zcicncss-lookup",
+        "body": [
+            "<span class='zcicncss-lookup zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-multiselect-lookup": {
+        "prefix": "mask-zcicncss-multiselect-lookup",
+        "body": [
+            "<span class='zcicncss-multiselect-lookup zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-upload": {
+        "prefix": "mask-zcicncss-upload",
+        "body": [
+            "<span class='zcicncss-upload zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-calendar": {
+        "prefix": "mask-zcicncss-calendar",
+        "body": [
+            "<span class='zcicncss-calendar zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-campaign-clicked": {
+        "prefix": "mask-zcicncss-campaign-clicked",
+        "body": [
+            "<span class='zcicncss-campaign-clicked zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-campaign-added": {
+        "prefix": "mask-zcicncss-campaign-added",
+        "body": [
+            "<span class='zcicncss-campaign-added zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-campaign-bounced": {
+        "prefix": "mask-zcicncss-campaign-bounced",
+        "body": [
+            "<span class='zcicncss-campaign-bounced zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-chat-received": {
+        "prefix": "mask-zcicncss-chat-received",
+        "body": [
+            "<span class='zcicncss-chat-received zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-chat-missed": {
+        "prefix": "mask-zcicncss-chat-missed",
+        "body": [
+            "<span class='zcicncss-chat-missed zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-close-rounded": {
+        "prefix": "mask-zcicncss-close-rounded",
+        "body": [
+            "<span class='zcicncss-close-rounded zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-close": {
+        "prefix": "mask-zcicncss-close",
+        "body": [
+            "<span class='zcicncss-close zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-closefilled": {
+        "prefix": "mask-zcicncss-closefilled",
+        "body": [
+            "<span class='zcicncss-closefilled zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-lg-close": {
+        "prefix": "mask-zcicncss-lg-close",
+        "body": [
+            "<span class='zcicncss-lg-close zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-column-add": {
+        "prefix": "mask-zcicncss-column-add",
+        "body": [
+            "<span class='zcicncss-column-add zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-column-arrange": {
+        "prefix": "mask-zcicncss-column-arrange",
+        "body": [
+            "<span class='zcicncss-column-arrange zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-column-reset": {
+        "prefix": "mask-zcicncss-column-reset",
+        "body": [
+            "<span class='zcicncss-column-reset zcicn-cssIcons zcicncss14'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-cloud-upload": {
+        "prefix": "mask-zcicncss-cloud-upload",
+        "body": [
+            "<span class='zcicncss-cloud-upload zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-cloud-download": {
+        "prefix": "mask-zcicncss-cloud-download",
+        "body": [
+            "<span class='zcicncss-cloud-download zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-googledrive": {
+        "prefix": "mask-zcicncss-googledrive",
+        "body": [
+            "<span class='zcicncss-googledrive zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-dealsummary": {
+        "prefix": "mask-zcicncss-dealsummary",
+        "body": [
+            "<span class='zcicncss-dealsummary zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-dealwon": {
+        "prefix": "mask-zcicncss-dealwon",
+        "body": [
+            "<span class='zcicncss-dealwon zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-deallost": {
+        "prefix": "mask-zcicncss-deallost",
+        "body": [
+            "<span class='zcicncss-deallost zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-deleteLine": {
+        "prefix": "mask-zcicncss-deleteLine",
+        "body": [
+            "<span class='zcicncss-deleteLine zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-deleteMd": {
+        "prefix": "mask-zcicncss-deleteMd",
+        "body": [
+            "<span class='zcicncss-deleteMd zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-deleteLine-hover": {
+        "prefix": "mask-zcicncss-deleteLine-hover",
+        "body": [
+            "<span class='zcicncss-deleteLine-hover zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-deleteMd-hover": {
+        "prefix": "mask-zcicncss-deleteMd-hover",
+        "body": [
+            "<span class='zcicncss-deleteMd-hover zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-delete": {
+        "prefix": "mask-zcicncss-delete",
+        "body": [
+            "<span class='zcicncss-delete zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-responce-new": {
+        "prefix": "mask-zcicncss-responce-new",
+        "body": [
+            "<span class='zcicncss-responce-new zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-phone": {
+        "prefix": "mask-zcicncss-phone",
+        "body": [
+            "<span class='zcicncss-phone zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-monitor": {
+        "prefix": "mask-zcicncss-monitor",
+        "body": [
+            "<span class='zcicncss-monitor zcicn-cssIcons zcicncss14'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-download": {
+        "prefix": "mask-zcicncss-download",
+        "body": [
+            "<span class='zcicncss-download zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-editFilled": {
+        "prefix": "mask-zcicncss-editFilled",
+        "body": [
+            "<span class='zcicncss-editFilled zcicn-cssIcons zcicncss13'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-editSolid": {
+        "prefix": "mask-zcicncss-editSolid",
+        "body": [
+            "<span class='zcicncss-editSolid zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-listviewedit": {
+        "prefix": "mask-zcicncss-listviewedit",
+        "body": [
+            "<span class='zcicncss-listviewedit zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-fieldUpdate": {
+        "prefix": "mask-zcicncss-fieldUpdate",
+        "body": [
+            "<span class='zcicncss-fieldUpdate zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-editFilled-hover": {
+        "prefix": "mask-zcicncss-editFilled-hover",
+        "body": [
+            "<span class='zcicncss-editFilled-hover zcicn-cssIcons zcicncss13'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-editSolid-hover": {
+        "prefix": "mask-zcicncss-editSolid-hover",
+        "body": [
+            "<span class='zcicncss-editSolid-hover zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-edit": {
+        "prefix": "mask-zcicncss-edit",
+        "body": [
+            "<span class='zcicncss-edit zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-eye-closed": {
+        "prefix": "mask-zcicncss-eye-closed",
+        "body": [
+            "<span class='zcicncss-eye-closed zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-eye": {
+        "prefix": "mask-zcicncss-eye",
+        "body": [
+            "<span class='zcicncss-eye zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-info-rounded": {
+        "prefix": "mask-zcicncss-info-rounded",
+        "body": [
+            "<span class='zcicncss-info-rounded zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-infoSolid": {
+        "prefix": "mask-zcicncss-infoSolid",
+        "body": [
+            "<span class='zcicncss-infoSolid zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-info": {
+        "prefix": "mask-zcicncss-info",
+        "body": [
+            "<span class='zcicncss-info zcicn-cssIcons zcicncss13'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-help-square": {
+        "prefix": "mask-zcicncss-help-square",
+        "body": [
+            "<span class='zcicncss-help-square zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-help": {
+        "prefix": "mask-zcicncss-help",
+        "body": [
+            "<span class='zcicncss-help zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-location": {
+        "prefix": "mask-zcicncss-location",
+        "body": [
+            "<span class='zcicncss-location zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-maps": {
+        "prefix": "mask-zcicncss-maps",
+        "body": [
+            "<span class='zcicncss-maps zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-lock": {
+        "prefix": "mask-zcicncss-lock",
+        "body": [
+            "<span class='zcicncss-lock zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-lock-locked": {
+        "prefix": "mask-zcicncss-lock-locked",
+        "body": [
+            "<span class='zcicncss-lock-locked zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-marketdown": {
+        "prefix": "mask-zcicncss-marketdown",
+        "body": [
+            "<span class='zcicncss-marketdown zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-marketup": {
+        "prefix": "mask-zcicncss-marketup",
+        "body": [
+            "<span class='zcicncss-marketup zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-lg-minus": {
+        "prefix": "mask-zcicncss-lg-minus",
+        "body": [
+            "<span class='zcicncss-lg-minus zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-checkboxminus": {
+        "prefix": "mask-zcicncss-checkboxminus",
+        "body": [
+            "<span class='zcicncss-checkboxminus zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-leads": {
+        "prefix": "mask-zcicncss-leads",
+        "body": [
+            "<span class='zcicncss-leads zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-contacts": {
+        "prefix": "mask-zcicncss-contacts",
+        "body": [
+            "<span class='zcicncss-contacts zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-accounts": {
+        "prefix": "mask-zcicncss-accounts",
+        "body": [
+            "<span class='zcicncss-accounts zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-invoices": {
+        "prefix": "mask-zcicncss-invoices",
+        "body": [
+            "<span class='zcicncss-invoices zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-potentials": {
+        "prefix": "mask-zcicncss-potentials",
+        "body": [
+            "<span class='zcicncss-potentials zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-products": {
+        "prefix": "mask-zcicncss-products",
+        "body": [
+            "<span class='zcicncss-products zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-purchaseorders": {
+        "prefix": "mask-zcicncss-purchaseorders",
+        "body": [
+            "<span class='zcicncss-purchaseorders zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-quotes": {
+        "prefix": "mask-zcicncss-quotes",
+        "body": [
+            "<span class='zcicncss-quotes zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-campaigns": {
+        "prefix": "mask-zcicncss-campaigns",
+        "body": [
+            "<span class='zcicncss-campaigns zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-salesorders": {
+        "prefix": "mask-zcicncss-salesorders",
+        "body": [
+            "<span class='zcicncss-salesorders zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-cases": {
+        "prefix": "mask-zcicncss-cases",
+        "body": [
+            "<span class='zcicncss-cases zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-vendors": {
+        "prefix": "mask-zcicncss-vendors",
+        "body": [
+            "<span class='zcicncss-vendors zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-pricebooks": {
+        "prefix": "mask-zcicncss-pricebooks",
+        "body": [
+            "<span class='zcicncss-pricebooks zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-custommodule": {
+        "prefix": "mask-zcicncss-custommodule",
+        "body": [
+            "<span class='zcicncss-custommodule zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-appointments": {
+        "prefix": "mask-zcicncss-appointments",
+        "body": [
+            "<span class='zcicncss-appointments zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-services": {
+        "prefix": "mask-zcicncss-services",
+        "body": [
+            "<span class='zcicncss-services zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-tasks": {
+        "prefix": "mask-zcicncss-tasks",
+        "body": [
+            "<span class='zcicncss-tasks zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-activities": {
+        "prefix": "mask-zcicncss-activities",
+        "body": [
+            "<span class='zcicncss-activities zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-events": {
+        "prefix": "mask-zcicncss-events",
+        "body": [
+            "<span class='zcicncss-events zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-calls": {
+        "prefix": "mask-zcicncss-calls",
+        "body": [
+            "<span class='zcicncss-calls zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-approvals": {
+        "prefix": "mask-zcicncss-approvals",
+        "body": [
+            "<span class='zcicncss-approvals zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-salesinbox": {
+        "prefix": "mask-zcicncss-salesinbox",
+        "body": [
+            "<span class='zcicncss-salesinbox zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-documents": {
+        "prefix": "mask-zcicncss-documents",
+        "body": [
+            "<span class='zcicncss-documents zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-forecasts": {
+        "prefix": "mask-zcicncss-forecasts",
+        "body": [
+            "<span class='zcicncss-forecasts zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-social": {
+        "prefix": "mask-zcicncss-social",
+        "body": [
+            "<span class='zcicncss-social zcicn-cssIcons zcicncss17'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-home": {
+        "prefix": "mask-zcicncss-home",
+        "body": [
+            "<span class='zcicncss-home zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-visits": {
+        "prefix": "mask-zcicncss-visits",
+        "body": [
+            "<span class='zcicncss-visits zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-googleadwords": {
+        "prefix": "mask-zcicncss-googleadwords",
+        "body": [
+            "<span class='zcicncss-googleadwords zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-projects": {
+        "prefix": "mask-zcicncss-projects",
+        "body": [
+            "<span class='zcicncss-projects zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-orchestration": {
+        "prefix": "mask-zcicncss-orchestration",
+        "body": [
+            "<span class='zcicncss-orchestration zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-desk": {
+        "prefix": "mask-zcicncss-desk",
+        "body": [
+            "<span class='zcicncss-desk zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-webtab": {
+        "prefix": "mask-zcicncss-webtab",
+        "body": [
+            "<span class='zcicncss-webtab zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-zohobooks": {
+        "prefix": "mask-zcicncss-zohobooks",
+        "body": [
+            "<span class='zcicncss-zohobooks zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-zohoexpense": {
+        "prefix": "mask-zcicncss-zohoexpense",
+        "body": [
+            "<span class='zcicncss-zohoexpense zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-zohoinvoice": {
+        "prefix": "mask-zcicncss-zohoinvoice",
+        "body": [
+            "<span class='zcicncss-zohoinvoice zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-voiceofthecustomer": {
+        "prefix": "mask-zcicncss-voiceofthecustomer",
+        "body": [
+            "<span class='zcicncss-voiceofthecustomer zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-emails": {
+        "prefix": "mask-zcicncss-emails",
+        "body": [
+            "<span class='zcicncss-emails zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-feeds": {
+        "prefix": "mask-zcicncss-feeds",
+        "body": [
+            "<span class='zcicncss-feeds zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-reports": {
+        "prefix": "mask-zcicncss-reports",
+        "body": [
+            "<span class='zcicncss-reports zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-dashboards": {
+        "prefix": "mask-zcicncss-dashboards",
+        "body": [
+            "<span class='zcicncss-dashboards zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-messages": {
+        "prefix": "mask-zcicncss-messages",
+        "body": [
+            "<span class='zcicncss-messages zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-managemodules": {
+        "prefix": "mask-zcicncss-managemodules",
+        "body": [
+            "<span class='zcicncss-managemodules zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-morehr": {
+        "prefix": "mask-zcicncss-morehr",
+        "body": [
+            "<span class='zcicncss-morehr zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-morevr": {
+        "prefix": "mask-zcicncss-morevr",
+        "body": [
+            "<span class='zcicncss-morevr zcicn-cssIcons zcicncss-rotate90'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-reg-plus": {
+        "prefix": "mask-zcicncss-reg-plus",
+        "body": [
+            "<span class='zcicncss-reg-plus zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-plus": {
+        "prefix": "mask-zcicncss-plus",
+        "body": [
+            "<span class='zcicncss-plus zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-lg-plus": {
+        "prefix": "mask-zcicncss-lg-plus",
+        "body": [
+            "<span class='zcicncss-lg-plus zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-userRounded": {
+        "prefix": "mask-zcicncss-userRounded",
+        "body": [
+            "<span class='zcicncss-userRounded zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-myProfile": {
+        "prefix": "mask-zcicncss-myProfile",
+        "body": [
+            "<span class='zcicncss-myProfile zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-profiles": {
+        "prefix": "mask-zcicncss-profiles",
+        "body": [
+            "<span class='zcicncss-profiles zcicn-cssIcons zcicncssOuterBorderSmall'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-reload": {
+        "prefix": "mask-zcicncss-reload",
+        "body": [
+            "<span class='zcicncss-reload zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-message-refresh": {
+        "prefix": "mask-zcicncss-message-refresh",
+        "body": [
+            "<span class='zcicncss-message-refresh zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-notallowed": {
+        "prefix": "mask-zcicncss-notallowed",
+        "body": [
+            "<span class='zcicncss-notallowed zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-searchRegular": {
+        "prefix": "mask-zcicncss-searchRegular",
+        "body": [
+            "<span class='zcicncss-searchRegular zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-search": {
+        "prefix": "mask-zcicncss-search",
+        "body": [
+            "<span class='zcicncss-search zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-settings-reg": {
+        "prefix": "mask-zcicncss-settings-reg",
+        "body": [
+            "<span class='zcicncss-settings-reg zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-settings": {
+        "prefix": "mask-zcicncss-settings",
+        "body": [
+            "<span class='zcicncss-settings zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-textindent-increase": {
+        "prefix": "mask-zcicn-textindent-increase",
+        "body": [
+            "<span class='zcicn-textindent-increase zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-textindent-decrease": {
+        "prefix": "mask-zcicn-textindent-decrease",
+        "body": [
+            "<span class='zcicn-textindent-decrease zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-bold": {
+        "prefix": "mask-zcicn-bold",
+        "body": [
+            "<span class='zcicn-bold zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-italics": {
+        "prefix": "mask-zcicn-italics",
+        "body": [
+            "<span class='zcicn-italics zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-underline": {
+        "prefix": "mask-zcicn-underline",
+        "body": [
+            "<span class='zcicn-underline zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-strikeout": {
+        "prefix": "mask-zcicn-strikeout",
+        "body": [
+            "<span class='zcicn-strikeout zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-subscript": {
+        "prefix": "mask-zcicn-subscript",
+        "body": [
+            "<span class='zcicn-subscript zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-superscript": {
+        "prefix": "mask-zcicn-superscript",
+        "body": [
+            "<span class='zcicn-superscript zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-blockquote": {
+        "prefix": "mask-zcicn-blockquote",
+        "body": [
+            "<span class='zcicn-blockquote zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-align-center": {
+        "prefix": "mask-zcicn-align-center",
+        "body": [
+            "<span class='zcicn-align-center zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-align-left": {
+        "prefix": "mask-zcicn-align-left",
+        "body": [
+            "<span class='zcicn-align-left zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-align-right": {
+        "prefix": "mask-zcicn-align-right",
+        "body": [
+            "<span class='zcicn-align-right zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-cleartext": {
+        "prefix": "mask-zcicn-cleartext",
+        "body": [
+            "<span class='zcicn-cleartext zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-text-color": {
+        "prefix": "mask-zcicn-text-color",
+        "body": [
+            "<span class='zcicn-text-color zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-background-color": {
+        "prefix": "mask-zcicn-background-color",
+        "body": [
+            "<span class='zcicn-background-color zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-insert-table": {
+        "prefix": "mask-zcicn-insert-table",
+        "body": [
+            "<span class='zcicn-insert-table zcicn-cssIcons zcicncss14'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-insert-link": {
+        "prefix": "mask-zcicn-insert-link",
+        "body": [
+            "<span class='zcicn-insert-link zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-line-height": {
+        "prefix": "mask-zcicn-line-height",
+        "body": [
+            "<span class='zcicn-line-height zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-ol-list": {
+        "prefix": "mask-zcicn-ol-list",
+        "body": [
+            "<span class='zcicn-ol-list zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-align-justify": {
+        "prefix": "mask-zcicn-align-justify",
+        "body": [
+            "<span class='zcicn-align-justify zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-headers": {
+        "prefix": "mask-zcicn-headers",
+        "body": [
+            "<span class='zcicn-headers zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-ul-list": {
+        "prefix": "mask-zcicn-ul-list",
+        "body": [
+            "<span class='zcicn-ul-list zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-undo": {
+        "prefix": "mask-zcicn-undo",
+        "body": [
+            "<span class='zcicn-undo zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-redo": {
+        "prefix": "mask-zcicn-redo",
+        "body": [
+            "<span class='zcicn-redo zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-image-align-left": {
+        "prefix": "mask-zcicn-image-align-left",
+        "body": [
+            "<span class='zcicn-image-align-left zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-image-align-right": {
+        "prefix": "mask-zcicn-image-align-right",
+        "body": [
+            "<span class='zcicn-image-align-right zcicn-cssIcons zcicncss14'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-font-size-increase": {
+        "prefix": "mask-zcicn-font-size-increase",
+        "body": [
+            "<span class='zcicn-font-size-increase zcicn-cssIcons zcicncss14'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-font-size-decrease": {
+        "prefix": "mask-zcicn-font-size-decrease",
+        "body": [
+            "<span class='zcicn-font-size-decrease zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-bullet": {
+        "prefix": "mask-zcicn-bullet",
+        "body": [
+            "<span class='zcicn-bullet zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-shedule-mail": {
+        "prefix": "mask-zcicn-shedule-mail",
+        "body": [
+            "<span class='zcicn-shedule-mail zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-insert-template": {
+        "prefix": "mask-zcicn-insert-template",
+        "body": [
+            "<span class='zcicn-insert-template zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-compact-view": {
+        "prefix": "mask-zcicn-compact-view",
+        "body": [
+            "<span class='zcicn-compact-view zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-full-view": {
+        "prefix": "mask-zcicn-full-view",
+        "body": [
+            "<span class='zcicn-full-view zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-minimize-window": {
+        "prefix": "mask-zcicn-minimize-window",
+        "body": [
+            "<span class='zcicn-minimize-window zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-thumbsup": {
+        "prefix": "mask-zcicncss-thumbsup",
+        "body": [
+            "<span class='zcicncss-thumbsup zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-thumbsupsolid": {
+        "prefix": "mask-zcicncss-thumbsupsolid",
+        "body": [
+            "<span class='zcicncss-thumbsupsolid zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-tick-filled-rounded": {
+        "prefix": "mask-zcicncss-tick-filled-rounded",
+        "body": [
+            "<span class='zcicncss-tick-filled-rounded zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-tickfilled": {
+        "prefix": "mask-zcicncss-tickfilled",
+        "body": [
+            "<span class='zcicncss-tickfilled zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-tick": {
+        "prefix": "mask-zcicncss-tick",
+        "body": [
+            "<span class='zcicncss-tick zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-tickrounded": {
+        "prefix": "mask-zcicncss-tickrounded",
+        "body": [
+            "<span class='zcicncss-tickrounded zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-font-size-decrease-empty": {
+        "prefix": "mask-zcicn-font-size-decrease-empty",
+        "body": [
+            "<span class='zcicn-font-size-decrease-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-bold-empty": {
+        "prefix": "mask-zcicn-bold-empty",
+        "body": [
+            "<span class='zcicn-bold-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-italics-empty": {
+        "prefix": "mask-zcicn-italics-empty",
+        "body": [
+            "<span class='zcicn-italics-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-underline-empty": {
+        "prefix": "mask-zcicn-underline-empty",
+        "body": [
+            "<span class='zcicn-underline-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-strikeout-empty": {
+        "prefix": "mask-zcicn-strikeout-empty",
+        "body": [
+            "<span class='zcicn-strikeout-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-text-color-empty": {
+        "prefix": "mask-zcicn-text-color-empty",
+        "body": [
+            "<span class='zcicn-text-color-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-background-color-empty": {
+        "prefix": "mask-zcicn-background-color-empty",
+        "body": [
+            "<span class='zcicn-background-color-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-bullet-empty": {
+        "prefix": "mask-zcicn-bullet-empty",
+        "body": [
+            "<span class='zcicn-bullet-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-ol-list-empty": {
+        "prefix": "mask-zcicn-ol-list-empty",
+        "body": [
+            "<span class='zcicn-ol-list-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-shedule-mail-empty": {
+        "prefix": "mask-zcicn-shedule-mail-empty",
+        "body": [
+            "<span class='zcicn-shedule-mail-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-minimize-window-empty": {
+        "prefix": "mask-zcicn-minimize-window-empty",
+        "body": [
+            "<span class='zcicn-minimize-window-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-maximize-window-empty": {
+        "prefix": "mask-zcicn-maximize-window-empty",
+        "body": [
+            "<span class='zcicn-maximize-window-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-sticky-delete-empty": {
+        "prefix": "mask-zcicn-sticky-delete-empty",
+        "body": [
+            "<span class='zcicn-sticky-delete-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-paint-empty": {
+        "prefix": "mask-zcicn-paint-empty",
+        "body": [
+            "<span class='zcicn-paint-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-notification-empty": {
+        "prefix": "mask-zcicn-notification-empty",
+        "body": [
+            "<span class='zcicn-notification-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-profile-empty": {
+        "prefix": "mask-zcicn-profile-empty",
+        "body": [
+            "<span class='zcicn-profile-empty zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-sticky-plus": {
+        "prefix": "mask-zcicn-sticky-plus",
+        "body": [
+            "<span class='zcicn-sticky-plus zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-warning-rounded": {
+        "prefix": "mask-zcicncss-warning-rounded",
+        "body": [
+            "<span class='zcicncss-warning-rounded zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-alert-filled": {
+        "prefix": "mask-zcicncss-alert-filled",
+        "body": [
+            "<span class='zcicncss-alert-filled zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-warning-triangle": {
+        "prefix": "mask-zcicncss-warning-triangle",
+        "body": [
+            "<span class='zcicncss-warning-triangle zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-warning-triangle-lg": {
+        "prefix": "mask-zcicncss-warning-triangle-lg",
+        "body": [
+            "<span class='zcicncss-warning-triangle-lg zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-zoho": {
+        "prefix": "mask-zcicncss-zoho",
+        "body": [
+            "<span class='zcicncss-zoho zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-google": {
+        "prefix": "mask-zcicncss-google",
+        "body": [
+            "<span class='zcicncss-google zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-whatsapp-logo-colored": {
+        "prefix": "mask-zcicn-whatsapp-logo-colored",
+        "body": [
+            "<span class='zcicn-whatsapp-logo-colored'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-microsoft": {
+        "prefix": "mask-zcicncss-microsoft",
+        "body": [
+            "<span class='zcicncss-microsoft zcicn-cssIcons zcicncss14'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-youtube": {
+        "prefix": "mask-zcicncss-youtube",
+        "body": [
+            "<span class='zcicncss-youtube zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-googlechrome": {
+        "prefix": "mask-zcicncss-googlechrome",
+        "body": [
+            "<span class='zcicncss-googlechrome zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-usersearch": {
+        "prefix": "mask-zcicncss-usersearch",
+        "body": [
+            "<span class='zcicncss-usersearch zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-usergroupsolid": {
+        "prefix": "mask-zcicncss-usergroupsolid",
+        "body": [
+            "<span class='zcicncss-usergroupsolid zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-usersinglesolid": {
+        "prefix": "mask-zcicncss-usersinglesolid",
+        "body": [
+            "<span class='zcicncss-usersinglesolid zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-searchTopbar": {
+        "prefix": "mask-zcicncss-searchTopbar",
+        "body": [
+            "<span class='zcicncss-searchTopbar zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-calendarTopbar": {
+        "prefix": "mask-zcicncss-calendarTopbar",
+        "body": [
+            "<span class='zcicncss-calendarTopbar zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-marketplaceTopbar": {
+        "prefix": "mask-zcicncss-marketplaceTopbar",
+        "body": [
+            "<span class='zcicncss-marketplaceTopbar zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-notifyTopbar": {
+        "prefix": "mask-zcicncss-notifyTopbar",
+        "body": [
+            "<span class='zcicncss-notifyTopbar zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-settingsTopbar": {
+        "prefix": "mask-zcicncss-settingsTopbar",
+        "body": [
+            "<span class='zcicncss-settingsTopbar zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-mailTopbar": {
+        "prefix": "mask-zcicncss-mailTopbar",
+        "body": [
+            "<span class='zcicncss-mailTopbar zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-createModuleTopbar": {
+        "prefix": "mask-zcicncss-createModuleTopbar",
+        "body": [
+            "<span class='zcicncss-createModuleTopbar zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicn-colorpicker-colored": {
+        "prefix": "mask-zcicn-colorpicker-colored",
+        "body": [
+            "<span class='zcicn-colorpicker-colored'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-allapps": {
+        "prefix": "mask-zcicncss-allapps",
+        "body": [
+            "<span class='zcicncss-allapps zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-notification": {
+        "prefix": "mask-zcicncss-notification",
+        "body": [
+            "<span class='zcicncss-notification zcicn-cssIcons zcicncss17'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-home-solid": {
+        "prefix": "mask-zcicncss-home-solid",
+        "body": [
+            "<span class='zcicncss-home-solid zcicn-cssIcons zcicncss13'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-globe": {
+        "prefix": "mask-zcicncss-globe",
+        "body": [
+            "<span class='zcicncss-globe zcicn-cssIcons zcicncss13'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-timer": {
+        "prefix": "mask-zcicncss-timer",
+        "body": [
+            "<span class='zcicncss-timer zcicn-cssIcons zcicncss17'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-clock": {
+        "prefix": "mask-zcicncss-clock",
+        "body": [
+            "<span class='zcicncss-clock  zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-bulb": {
+        "prefix": "mask-zcicncss-bulb",
+        "body": [
+            "<span class='zcicncss-bulb zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-revert": {
+        "prefix": "mask-zcicncss-revert",
+        "body": [
+            "<span class='zcicncss-revert zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-common-full-view": {
+        "prefix": "mask-zcicncss-common-full-view",
+        "body": [
+            "<span class='zcicncss-common-full-view zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-common-exit-full-view": {
+        "prefix": "mask-zcicncss-common-exit-full-view",
+        "body": [
+            "<span class='zcicncss-common-exit-full-view zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-zia-search": {
+        "prefix": "mask-zcicncss-zia-search",
+        "body": [
+            "<span class='zcicncss-zia-search zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-database": {
+        "prefix": "mask-zcicncss-database",
+        "body": [
+            "<span class='zcicncss-database zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-expand": {
+        "prefix": "mask-zcicncss-expand",
+        "body": [
+            "<span class='zcicncss-expand zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-callWebhooks": {
+        "prefix": "mask-zcicncss-callWebhooks",
+        "body": [
+            "<span class='zcicncss-callWebhooks zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-openModule": {
+        "prefix": "mask-zcicncss-openModule",
+        "body": [
+            "<span class='zcicncss-openModule zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-linkedFields": {
+        "prefix": "mask-zcicncss-linkedFields",
+        "body": [
+            "<span class='zcicncss-linkedFields zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-solutions": {
+        "prefix": "mask-zcicncss-solutions",
+        "body": [
+            "<span class='zcicncss-solutions zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-pause": {
+        "prefix": "mask-zcicncss-pause",
+        "body": [
+            "<span class='zcicncss-pause zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-play": {
+        "prefix": "mask-zcicncss-play",
+        "body": [
+            "<span class='zcicncss-play zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-myOrg": {
+        "prefix": "mask-zcicncss-myOrg",
+        "body": [
+            "<span class='zcicncss-myOrg zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-noFolder": {
+        "prefix": "mask-zcicncss-noFolder",
+        "body": [
+            "<span class='zcicncss-noFolder zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-myRequeste": {
+        "prefix": "mask-zcicncss-myRequeste",
+        "body": [
+            "<span class='zcicncss-myRequeste zcicn-cssIcons zcicncss17'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-uploadImage": {
+        "prefix": "mask-zcicncss-uploadImage",
+        "body": [
+            "<span class='zcicncss-uploadImage zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-move": {
+        "prefix": "mask-zcicncss-move",
+        "body": [
+            "<span class='zcicncss-move zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-notes": {
+        "prefix": "mask-zcicncss-notes",
+        "body": [
+            "<span class='zcicncss-notes zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-create-notes": {
+        "prefix": "mask-zcicncss-create-notes",
+        "body": [
+            "<span class='zcicncss-create-notes zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-workflow": {
+        "prefix": "mask-zcicncss-workflow",
+        "body": [
+            "<span class='zcicncss-workflow zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-approval": {
+        "prefix": "mask-zcicncss-approval",
+        "body": [
+            "<span class='zcicncss-approval zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-projectstask": {
+        "prefix": "mask-zcicncss-projectstask",
+        "body": [
+            "<span class='zcicncss-projectstask zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-layoutrule": {
+        "prefix": "mask-zcicncss-layoutrule",
+        "body": [
+            "<span class='zcicncss-layoutrule zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-assignmentrules": {
+        "prefix": "mask-zcicncss-assignmentrules",
+        "body": [
+            "<span class='zcicncss-assignmentrules zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-validationrules": {
+        "prefix": "mask-zcicncss-validationrules",
+        "body": [
+            "<span class='zcicncss-validationrules zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-canvas-colored": {
+        "prefix": "mask-zcicncss-canvas-colored",
+        "body": [
+            "<span class='zcicncss-canvas-colored zcicn-cssColorIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-related-modules": {
+        "prefix": "mask-zcicncss-related-modules",
+        "body": [
+            "<span class='zcicncss-related-modules zcicn-cssIcons zcicncss17'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-drill-down": {
+        "prefix": "mask-zcicncss-drill-down",
+        "body": [
+            "<span class='zcicncss-drill-down zcicn-cssIcons zcicncss17'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-zoho-subscription": {
+        "prefix": "mask-zcicncss-zoho-subscription",
+        "body": [
+            "<span class='zcicncss-zoho-subscription zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-camera": {
+        "prefix": "mask-zcicncss-camera",
+        "body": [
+            "<span class='zcicncss-camera zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-zialogo": {
+        "prefix": "mask-zcicncss-zialogo",
+        "body": [
+            "<span class='zcicncss-zialogo zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-newmodule": {
+        "prefix": "mask-zcicncss-newmodule",
+        "body": [
+            "<span class='zcicncss-newmodule zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-folder": {
+        "prefix": "mask-zcicncss-folder",
+        "body": [
+            "<span class='zcicncss-folder zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-wizard": {
+        "prefix": "mask-zcicncss-wizard",
+        "body": [
+            "<span class='zcicncss-wizard zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-widget": {
+        "prefix": "mask-zcicncss-widget",
+        "body": [
+            "<span class='zcicncss-widget zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-form": {
+        "prefix": "mask-zcicncss-form",
+        "body": [
+            "<span class='zcicncss-form zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-clientscript": {
+        "prefix": "mask-zcicncss-clientscript",
+        "body": [
+            "<span class='zcicncss-clientscript zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-sharingrules": {
+        "prefix": "mask-zcicncss-sharingrules",
+        "body": [
+            "<span class='zcicncss-sharingrules zcicn-cssIcons zcicncss15'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-cmd": {
+        "prefix": "mask-zcicncss-cmd",
+        "body": [
+            "<span class='zcicncss-cmd zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-opt": {
+        "prefix": "mask-zcicncss-opt",
+        "body": [
+            "<span class='zcicncss-opt zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-shift": {
+        "prefix": "mask-zcicncss-shift",
+        "body": [
+            "<span class='zcicncss-shift zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-roles": {
+        "prefix": "mask-zcicncss-roles",
+        "body": [
+            "<span class='zcicncss-roles zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-groups": {
+        "prefix": "mask-zcicncss-groups",
+        "body": [
+            "<span class='zcicncss-groups zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-admin": {
+        "prefix": "mask-zcicncss-admin",
+        "body": [
+            "<span class='zcicncss-admin zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-refresh": {
+        "prefix": "mask-zcicncss-refresh",
+        "body": [
+            "<span class='zcicncss-refresh zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-plugin": {
+        "prefix": "mask-zcicncss-plugin",
+        "body": [
+            "<span class='zcicncss-plugin zcicn-cssIcons zcicncss16'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-strateryinfluence": {
+        "prefix": "mask-zcicncss-strateryinfluence",
+        "body": [
+            "<span class='zcicncss-strateryinfluence zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-crop": {
+        "prefix": "mask-zcicncss-crop",
+        "body": [
+            "<span class='zcicncss-crop zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-messagebot": {
+        "prefix": "mask-zcicncss-messagebot",
+        "body": [
+            "<span class='zcicncss-messagebot zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-connections": {
+        "prefix": "mask-zcicncss-connections",
+        "body": [
+            "<span class='zcicncss-connections zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-representationmodule": {
+        "prefix": "mask-zcicncss-representationmodule",
+        "body": [
+            "<span class='zcicncss-representationmodule zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-flag": {
+        "prefix": "mask-zcicncss-flag",
+        "body": [
+            "<span class='zcicncss-flag zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-organize": {
+        "prefix": "mask-zcicncss-organize",
+        "body": [
+            "<span class='zcicncss-organize zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-collapse": {
+        "prefix": "mask-zcicncss-collapse",
+        "body": [
+            "<span class='zcicncss-collapse zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-tag": {
+        "prefix": "mask-zcicncss-tag",
+        "body": [
+            "<span class='zcicncss-tag zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-capture": {
+        "prefix": "mask-zcicncss-capture",
+        "body": [
+            "<span class='zcicncss-capture zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-record": {
+        "prefix": "mask-zcicncss-record",
+        "body": [
+            "<span class='zcicncss-record zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-drag": {
+        "prefix": "mask-zcicncss-drag",
+        "body": [
+            "<span class='zcicncss-drag zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-shortprompts": {
+        "prefix": "mask-zcicncss-shortprompts",
+        "body": [
+            "<span class='zcicncss-shortprompts zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-mediumprompts": {
+        "prefix": "mask-zcicncss-mediumprompts",
+        "body": [
+            "<span class='zcicncss-mediumprompts zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-longprompts": {
+        "prefix": "mask-zcicncss-longprompts",
+        "body": [
+            "<span class='zcicncss-longprompts zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-freetrial": {
+        "prefix": "mask-zcicncss-freetrial",
+        "body": [
+            "<span class='zcicncss-freetrial zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-trialwithkey": {
+        "prefix": "mask-zcicncss-trialwithkey",
+        "body": [
+            "<span class='zcicncss-trialwithkey zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-checkboxtick": {
+        "prefix": "mask-zcicncss-checkboxtick",
+        "body": [
+            "<span class='zcicncss-checkboxtick zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-filter": {
+        "prefix": "mask-zcicncss-filter",
+        "body": [
+            "<span class='zcicncss-filter zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-promptrefresh": {
+        "prefix": "mask-zcicncss-promptrefresh",
+        "body": [
+            "<span class='zcicncss-promptrefresh zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-chatgpt": {
+        "prefix": "mask-zcicncss-chatgpt",
+        "body": [
+            "<span class='zcicncss-chatgpt zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-smartprompt": {
+        "prefix": "mask-zcicncss-smartprompt",
+        "body": [
+            "<span class='zcicncss-smartprompt zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-rearrange": {
+        "prefix": "mask-zcicncss-rearrange",
+        "body": [
+            "<span class='zcicncss-rearrange zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-fullscreen": {
+        "prefix": "mask-zcicncss-fullscreen",
+        "body": [
+            "<span class='zcicncss-fullscreen zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-patheditor": {
+        "prefix": "mask-zcicncss-patheditor",
+        "body": [
+            "<span class='zcicncss-patheditor zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-codeeditor": {
+        "prefix": "mask-zcicncss-codeeditor",
+        "body": [
+            "<span class='zcicncss-codeeditor zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-debugcode": {
+        "prefix": "mask-zcicncss-debugcode",
+        "body": [
+            "<span class='zcicncss-debugcode zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-logs": {
+        "prefix": "mask-zcicncss-logs",
+        "body": [
+            "<span class='zcicncss-logs zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-openeditor": {
+        "prefix": "mask-zcicncss-openeditor",
+        "body": [
+            "<span class='zcicncss-openeditor zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-prolite": {
+        "prefix": "mask-zcicncss-prolite",
+        "body": [
+            "<span class='zcicncss-prolite zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-bellnotification": {
+        "prefix": "mask-zcicncss-bellnotification",
+        "body": [
+            "<span class='zcicncss-bellnotification zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-connectionsonetoone": {
+        "prefix": "mask-zcicncss-connectionsonetoone",
+        "body": [
+            "<span class='zcicncss-connectionsonetoone zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-connectionsonetomany": {
+        "prefix": "mask-zcicncss-connectionsonetomany",
+        "body": [
+            "<span class='zcicncss-connectionsonetomany zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-tag-close": {
+        "prefix": "mask-zcicncss-tag-close",
+        "body": [
+            "<span class='zcicncss-tag-close zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-professionalzia": {
+        "prefix": "mask-zcicncss-professionalzia",
+        "body": [
+            "<span class='zcicncss-professionalzia zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-casualzia": {
+        "prefix": "mask-zcicncss-casualzia",
+        "body": [
+            "<span class='zcicncss-casualzia zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-humorouszia": {
+        "prefix": "mask-zcicncss-humorouszia",
+        "body": [
+            "<span class='zcicncss-humorouszia zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-sarcasticzia": {
+        "prefix": "mask-zcicncss-sarcasticzia",
+        "body": [
+            "<span class='zcicncss-sarcasticzia zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-descriptivezia": {
+        "prefix": "mask-zcicncss-descriptivezia",
+        "body": [
+            "<span class='zcicncss-descriptivezia zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-narrativezia": {
+        "prefix": "mask-zcicncss-narrativezia",
+        "body": [
+            "<span class='zcicncss-narrativezia zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-enter": {
+        "prefix": "mask-zcicncss-enter",
+        "body": [
+            "<span class='zcicncss-enter zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    },
+    "mask-zcicncss-firstdeal": {
+        "prefix": "mask-zcicncss-firstdeal",
+        "body": [
+            "<span class='zcicncss-firstdeal zcicn-cssIcons'></span></div>"
+        ],
+        "description": ""
+    }
+}

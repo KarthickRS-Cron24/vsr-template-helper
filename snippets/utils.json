@@ -1,0 +1,23 @@
+{
+    "_cruxUtils.showCustomAlert": {
+        "prefix": "_cruxUtils.showCustomAlert",
+        "body": [
+            "_cruxUtils.showCustomAlert({ params : { \"ltPropPrimaryMessage\":\"Are you sure want to exit?\", \"ltPropSecondaryMessage\":\"Are you sure want to exit?\", \"ltPropButtons\":[{ \"type\":\"accept\", \"appearance\":\"default\", \"text\":\"Ok\", \"cxPropZcqa\":\"button_1\"}]} , accept: function(){console.log('Accept callback')}})"
+        ],
+        "description": ""
+    },
+    "_cruxUtils.showSchedularNotification": {
+        "prefix": "_cruxUtils.showSchedularNotification",
+        "body": [
+            "_cruxUtils.showSchedularNotification({ params : { \"cxPropHeader\":\"Convert Action\", \"cxPropMessage\":\"messageVariable\", \"cxPropPreventCloseOnTimeout\":true} })"
+        ],
+        "description": ""
+    },
+    "_cruxUtils.showCustomMessage": {
+        "prefix": "_cruxUtils.showCustomMessage",
+        "body": [
+            "_cruxUtils.showCustomMessage({ params : { \"ltPropType\":\"success\", \"ltPropMessage\":\"Saved successfully.\"} } )"
+        ],
+        "description": ""
+    }
+}

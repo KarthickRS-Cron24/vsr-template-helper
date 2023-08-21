@@ -1,0 +1,70 @@
+{
+    "name": "vsr-template-helper",
+    "displayName": "VSR Template Helper",
+    "description": "Get started with VSR templates, Virtual Scalable and Reusable Templates for building mockups for UI development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.81.0"
+    },
+    "categories": [
+        "Html",
+        "Javascript",
+        "Css",
+        "Less"
+    ],
+    "activationEvents": [],
+    "main": "./extension.js",
+    "icon": "icon.svg",
+    "contributes": {
+        "html": {
+            "customData": [
+              "./html/attribute.json",
+              "./html/class.json"
+            ]
+          },
+          "snippets": [
+            {
+              "language": "html",
+              "path": "./snippets/component.json"
+            },
+            {
+              "language": "html",
+              "path": "./snippets/icons.json"
+            },
+            {
+              "language": "javascript",
+              "path": "./snippets/utils.json"
+            },
+            {
+              "language": "css",
+              "path": "./snippets/colors.json"
+            },
+            {
+              "language": "less",
+              "path": "./snippets/colors.json"
+            }
+          ],
+        "commands": [
+            {
+                "command": "vsr-template-helper.helloWorld",
+                "title": "Hello World"
+            }
+        ]
+    },
+    "scripts": {
+        "lint": "eslint .",
+        "pretest": "npm run lint",
+        "test": "node ./test/runTest.js"
+    },
+    "devDependencies": {
+        "@types/vscode": "^1.81.0",
+        "@types/glob": "^8.1.0",
+        "@types/mocha": "^10.0.1",
+        "@types/node": "20.2.5",
+        "eslint": "^8.41.0",
+        "glob": "^8.1.0",
+        "mocha": "^10.2.0",
+        "typescript": "^5.1.3",
+        "@vscode/test-electron": "^2.3.2"
+    }
+}

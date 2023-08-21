@@ -1,0 +1,681 @@
+{
+    "lyte-accordion": {
+        "prefix": "lyte-accordion",
+        "body": [
+            "<lyte-accordion>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-accordion-item class=\"lyteAccordionActive\">\n            <lyte-accordion-header>\n                Accordion 1\n                <lyte-icon class=\"lyteAccordionArrow\">\n                </lyte-icon>\n            </lyte-accordion-header>\n            <lyte-accordion-body>\n                <pre>\n                    Lorem ipsum dolor sit amet,consectetur adipisicing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n                </pre>\n            </lyte-accordion-body>\n        </lyte-accordion-item>\n        <lyte-accordion-item>\n            <lyte-accordion-header>\n                Accordion 2\n                <lyte-icon class=\"lyteAccordionArrow\">\n                </lyte-icon>\n            </lyte-accordion-header>\n            <lyte-accordion-body>\n                <pre>\n                    Lorem ipsum dolor sit amet,consectetur adipisicing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n                </pre>\n            </lyte-accordion-body>\n        </lyte-accordion-item>\n        <lyte-accordion-item>\n            <lyte-accordion-header>\n                Accordion 3\n                <lyte-icon class=\"lyteAccordionArrow\">\n                </lyte-icon>\n            </lyte-accordion-header>\n            <lyte-accordion-body>\n                <pre>\n                    Lorem ipsum dolor sit amet,consectetur adipisicing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat.\n                </pre>\n            </lyte-accordion-body>\n        </lyte-accordion-item>\n        <lyte-accordion-item>\n            <lyte-accordion-header>\n                Accordion 4\n                <lyte-icon class=\"lyteAccordionArrow\">\n                </lyte-icon>\n            </lyte-accordion-header>\n            <lyte-accordion-body>\n                <pre>\n                    Lorem ipsum dolor sit amet,consectetur adipisicing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodconsequat.\n                </pre>\n            </lyte-accordion-body>\n        </lyte-accordion-item>\n    </template>\n</lyte-accordion>\n"
+        ],
+        "description": ""
+    },
+    "lyte-alert": {
+        "prefix": "lyte-alert",
+        "body": [
+            "<lyte-alert lt-prop-wrapper-class=\"sampleAlert\" lt-prop-yield=\"true\">\n    <template is=\"registerYield\" yield-name=\"alert\">\n        <lyte-alert-header>\n            Delete Profile\n        </lyte-alert-header>\n        <lyte-alert-content>\n            Are you sure want to delete this profile?\n        </lyte-alert-content>\n    </template>\n</lyte-alert>\n"
+        ],
+        "description": ""
+    },
+    "lyte-autocomplete": {
+        "prefix": "lyte-autocomplete",
+        "body": [
+            "<lyte-autocomplete lt-prop-placeholder=\"Enter something\" lt-prop-type=\"search\" lt-prop-appearance=\"box\" lt-prop-highlight=\"true\">\n</lyte-autocomplete>\n"
+        ],
+        "description": ""
+    },
+    "lyte-avatar-navigator": {
+        "prefix": "lyte-avatar-navigator",
+        "body": [
+            "<lyte-avatar-navigator lt-prop-avatar-yield=\"true\" lt-prop-images={{images}} lt-prop-url-value=\"name\" lt-prop-system-value=\"value\">\n    <template is=\"registerYield\" yield-name=\"avatarYield\">\n        <lyte-avatar-navigator-item lt-prop-image={{lyteImage}}>\n        </lyte-avatar-navigator-item>\n    </template>\n</lyte-avatar-navigator>\n"
+        ],
+        "description": ""
+    },
+    "lyte-badge": {
+        "prefix": "lyte-badge",
+        "body": [
+            "<lyte-button class=\"btn\">\n    <lyte-badge class=\"testBadge\" lyte-if={{yourBoolean}}>\n    </lyte-badge>\n    <template is=\"registerYield\" yield-name=\"text\">\n        Custom Badge\n    </template>\n</lyte-button>\n"
+        ],
+        "description": ""
+    },
+    "lyte-banner": {
+        "prefix": "lyte-banner",
+        "body": [
+            "<lyte-banner lt-prop-show=\"true\" lt-prop-modal={\"wrapperClass\":\"crmWarningBanner\",\"offset\":{\"top\":\"30px\",\"left\":\"250px\"},\"width\":\"60%\"}>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        Authenticate your email-sending domains by 20.11.2022 to comply with changes to Zoho CRMâ€™s email practices.\n    </template>\n</lyte-banner>\n"
+        ],
+        "description": ""
+    },
+    "lyte-breadcrumb": {
+        "prefix": "lyte-breadcrumb",
+        "body": [
+            "<lyte-breadcrumb lt-prop-yield=true on-click={{method(\"someMethod\")}}>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-breadcrumb-structure>\n            <%someArray.forEach( function( item, index ){%>\n                <lyte-breadcrumb-item data-value={{item.order}}>\n                    <lyte-breadcrumb-body>\n                        {{item.name}}\n                    </lyte-breadcrumb-body>\n                </lyte-breadcrumb-item>\n                <%})%>\n                </lyte-breadcrumb-structure>\n            </template>\n        </lyte-breadcrumb>\n"
+        ],
+        "description": ""
+    },
+    "lyte-button": {
+        "prefix": "lyte-button",
+        "body": [
+            "<lyte-button>\n    <template is=\"registerYield\" yield-name=\"text\">\n        Default\n    </template>\n</lyte-button>\n"
+        ],
+        "description": ""
+    },
+    "lyte-button-group": {
+        "prefix": "lyte-button-group",
+        "body": [
+            "<lyte-button-group>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-button lt-prop-value=\"button1\">\n            <template is=\"registerYield\" yield-name=\"text\">\n                Button1\n            </template>\n        </lyte-button>\n        <lyte-button lt-prop-value=\"button2\">\n            <template is=\"registerYield\" yield-name=\"text\">\n                Button2\n            </template>\n        </lyte-button>\n    </template>\n</lyte-button-group>\n"
+        ],
+        "description": ""
+    },
+    "lyte-calculator": {
+        "prefix": "lyte-calculator",
+        "body": [
+            "<lyte-calculator>\n</lyte-calculator>\n"
+        ],
+        "description": ""
+    },
+    "lyte-calendar": {
+        "prefix": "lyte-calendar",
+        "body": [
+            "<lyte-calendar>\n</lyte-calendar>\n"
+        ],
+        "description": ""
+    },
+    "lyte-carousel": {
+        "prefix": "lyte-carousel",
+        "body": [
+            "<lyte-carousel lt-prop-active-index=\"0\" lt-prop-data={{yourData}} lt-prop-records=\"2\">\n    <template is=\"registerYield\" yield-name=\"carouselBoxYield\">\n        <lyte-carousel-prev>\n        </lyte-carousel-prev>\n        <lyte-carousel-content>\n            <lyte-carousel-item>\n                Content 1\n            </lyte-carousel-item>\n            <lyte-carousel-item>\n                Content 2\n            </lyte-carousel-item>\n        </lyte-carousel-content>\n        <lyte-carousel-indicator>\n            <lyte-carousel-indicator-item data-value=\"0\">\n                1\n            </lyte-carousel-indicator-item>\n            <lyte-carousel-indicator-item data-value=\"1\">\n                2\n            </lyte-carousel-indicator-item>\n        </lyte-carousel-indicator>\n        <lyte-carousel-next>\n        </lyte-carousel-next>\n    </template>\n</lyte-carousel>\n"
+        ],
+        "description": ""
+    },
+    "lyte-clock": {
+        "prefix": "lyte-clock",
+        "body": [
+            "<lyte-clock>\n</lyte-clock>\n"
+        ],
+        "description": ""
+    },
+    "lyte-code-snippet": {
+        "prefix": "lyte-code-snippet",
+        "body": [
+            "<lyte-code-snippet lt-prop-code=\"{{basicExample}}\" lt-prop-type=\"html\">\n</lyte-code-snippet>\n"
+        ],
+        "description": ""
+    },
+    "lyte-colorbox": {
+        "prefix": "lyte-colorbox",
+        "body": [
+            "<lyte-colorbox lt-prop={\"selectors\":[\"selector1\",\"selector2\"]}>\n</lyte-colorbox>\n"
+        ],
+        "description": ""
+    },
+    "lyte-colorpicker": {
+        "prefix": "lyte-colorpicker",
+        "body": [
+            "<lyte-colorpicker lt-prop-basic-color-picker=\"true\">\n</lyte-colorpicker>\n"
+        ],
+        "description": ""
+    },
+    "lyte-combobox": {
+        "prefix": "lyte-combobox",
+        "body": [
+            "<lyte-combobox lt-prop-dropdown={{dropdownValue}} lt-prop-options={{yourOption}} lt-prop-dropdown-selected={{selectValue}}>\n</lyte-combobox>\n"
+        ],
+        "description": ""
+    },
+    "lyte-counter": {
+        "prefix": "lyte-counter",
+        "body": [
+            "<lyte-counter lt-prop-start=0 lt-prop-end=120 lt-prop-duration=4 lt-prop-prefix=\"$\"  lt-prop-suffix=\"sec\">\n</lyte-counter>\n"
+        ],
+        "description": ""
+    },
+    "lyte-datepicker": {
+        "prefix": "lyte-datepicker",
+        "body": [
+            "<lyte-daterangepicker>\n</lyte-daterangepicker>\n"
+        ],
+        "description": ""
+    },
+    "lyte-dateselect": {
+        "prefix": "lyte-dateselect",
+        "body": [
+            "<lyte-dateselect>\n</lyte-dateselect>\n"
+        ],
+        "description": ""
+    },
+    "lyte-drawer": {
+        "prefix": "lyte-drawer",
+        "body": [
+            "<lyte-drawer lt-prop-yield=true>\n    <template is=\"registerYield\" yield-name=\"drawerPanel\">\n        <lyte-drawer-body>\n            <lyte-drawer-label>\n                Email\n            </lyte-drawer-label>\n            <lyte-drawer-item data-value=\"inbox\">\n                Inbox\n            </lyte-drawer-item>\n            <lyte-drawer-item data-value=\"sent\">\n                Outbox\n            </lyte-drawer-item>\n            <lyte-drawer-item data-value=\"draft\">\n                Draft\n            </lyte-drawer-item>\n            <lyte-drawer-item data-value=\"spam\">\n                Spam\n            </lyte-drawer-item>\n        </lyte-drawer-body>\n    </template>\n</lyte-drawer>\n"
+        ],
+        "description": ""
+    },
+    "lyte-dropdown": {
+        "prefix": "lyte-dropdown",
+        "body": [
+            "<lyte-dropdown lt-prop-selected=\"supplier\">\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-drop-box>\n            <lyte-drop-body>\n                <lyte-drop-item data-value=\"prospect\">\n                    Prospects Found\n                </lyte-drop-item>\n                <lyte-drop-item data-value=\"supplier\">\n                    Suppliers Found\n                </lyte-drop-item>\n                <lyte-drop-item data-value=\"vendor\">\n                    Vendors Found\n                </lyte-drop-item>\n                <lyte-drop-item data-value=\"influencer\">\n                    Influencers Found\n                </lyte-drop-item>\n            </lyte-drop-body>\n        </lyte-drop-box>\n    </template>\n</lyte-dropdown>\n"
+        ],
+        "description": ""
+    },
+    "lyte-expresstable": {
+        "prefix": "lyte-expresstable",
+        "body": [
+            "<lyte-expresstable lt-prop-header={{headerJSON}} lt-prop-content={{contentJSON}} lt-prop-header-label-key=\"name\" lt-prop-body-label-key=\"body\" style=\"height: 150px\">\n</lyte-expresstable>\n"
+        ],
+        "description": ""
+    },
+    "lyte-fileupload": {
+        "prefix": "lyte-fileupload",
+        "body": [
+            "<lyte-fileupload lt-prop-yield=true  lt-prop-ajax={\"url\":\"/Fileupload\"} class=\"crmFileupload crmFileuploadBig\">\n    <template is=\"registerYield\" yield-name=\"file\">\n        <lyte-file-select-area>\n            <lyte-file-message class=\"lyteFileUpdMsgWrap\">\n                <div class=\"lyteFileUpdMsg\">\n                    <div class=\"f13 semiBoldFont\">\n                        Upload your image here, or\n                        <span class=\"crmLinkColor\">\n                            Browse\n                        </span>\n                    </div>\n                    <div class=\"crmLabelColor f13 mT10\">\n                        Supports: JPG, PNG, JPEG\n                    </div>\n                </div>\n            </lyte-file-message>\n        </lyte-file-select-area>\n    </template>\n</lyte-fileupload>\n"
+        ],
+        "description": ""
+    },
+    "lyte-gridstack": {
+        "prefix": "lyte-gridstack",
+        "body": [
+            "<lyte-gridstack style=\"height: 400px\" lt-prop-bestfit-type=\"grid\" lt-prop-grid-length=11 lt-prop-scope=\"div.lyteGridStack\" lt-prop-handler=\".lyteGridStackItem\">\n    <template is=\"registerYield\" yield-name=\"lyteGridStack\">\n        <div class=\"lyteGridStack\">\n            <div class=\"lyteGridStackItem grid\" lyte-grid-length=3 lyte-grid-height=3 style=\"background: green;color : white;\">\n                <lyte-grid-content>\n                    1\n                </lyte-grid-content>\n            </div>\n            <div class=\"lyteGridStackItem grid\" lyte-grid-length=3 lyte-grid-height=3 lyte-grid-resize=\"disabled\">\n                <lyte-grid-content style=\"background: green;color : white;\">\n                    2 U can`t change my size\n                </lyte-grid-content>\n            </div>\n            <div class=\"lyteGridStackItem grid\" lyte-grid-length=3 lyte-grid-height=3 style=\"background: green;color : white;\">\n                <lyte-grid-content>\n                    3\n                </lyte-grid-content>\n            </div>\n            <div class=\"lyteGridStackItem grid\" lyte-grid-length=1 lyte-grid-height=2 style=\"background: green;color : white;\">\n                <lyte-grid-content>\n                    4\n                </lyte-grid-content>\n            </div>\n            <div class=\"lyteGridStackItem grid\" lyte-grid-length=2 lyte-grid-height=3 style=\"background: green;color : white;\">\n                <lyte-grid-content>\n                    5\n                </lyte-grid-content>\n            </div>\n            <div class=\"lyteGridStackItem grid\" lyte-grid-y=0 lyte-grid-length=3 lyte-grid-height=3>\n                <lyte-grid-content style=\"background: green;color : white;\">\n                    6\n                </lyte-grid-content>\n            </div>\n            <div class=\"lyteGridStackItem grid\" lyte-grid-length=2 lyte-grid-height=3>\n                <lyte-grid-content style=\"background: green;color : white;\">\n                    7\n                </lyte-grid-content>\n            </div>\n            <div class=\"lyteGridStackItem grid\" lyte-grid-length=2 lyte-grid-height=3>\n                <lyte-grid-content style=\"background: green;color : white;\">\n                    8\n                </lyte-grid-content>\n            </div>\n            <div class=\"lyteGridStackItem grid\" lyte-grid-length=2 lyte-grid-height=3>\n                <lyte-grid-content style=\"background: green;color : white;\">\n                    9\n                </lyte-grid-content>\n            </div>\n        </div>\n    </template>\n</lyte-gridstack>\n"
+        ],
+        "description": ""
+    },
+    "lyte-hovercard": {
+        "prefix": "lyte-hovercard",
+        "body": [
+            "<lyte-hovercard  lt-prop-origin-elem=\"lyte-button#tooltip\">\n    <template is=\"registerYield\" yield-name=\"hoverCardYield\">\n        <lyte-hovercard-content>\n            <p>\n                A hovercard is useful for displaying additional info/content associated to an element\n            </p>\n        </lyte-hovercard-content>\n    </template>\n</lyte-hovercard>\n<lyte-button id=\"button\" lyte-hovercard=true>\n    <template is=\"registerYield\" yield-name=\"text\">\n        Default\n    </template>\n</lyte-button>\n"
+        ],
+        "description": ""
+    },
+    "lyte-kanbanview": {
+        "prefix": "lyte-kanbanview",
+        "body": [
+            "<lyte-kanbanview lt-prop-board-details={{details}}>\n    <template is=\"registerYield\" yield-name=\"kanbanYield\">\n        <lyte-board lt-prop-board-detail={{lyteBoardItem}} lt-prop-kanban-id={{lyteKanbanId}} lt-prop-index={{lyteIndex}}>\n            <template is=\"registerYield\" yield-name=\"headerItem\">\n                {{lyteBoardItem.id}}\n            </template>\n            <template is=\"registerYield\" yield-name=\"contentItem\">\n                <lyte-card lt-prop-view-port=true>\n                    <template is=\"registerYield\" yield-name=\"yield\">\n                        <lyte-card-body>\n                            <pre>\n                                Full name {{lyteCardItem.full_name}}\n                            </pre>\n                        </lyte-card-body>\n                    </template>\n                </lyte-card>\n            </template>\n            <template is=\"registerYield\" yield-name=\"loading\">\n                your loading content\n            </template>\n        </lyte-board>\n    </template>\n</lyte-kanbanview>\n"
+        ],
+        "description": ""
+    },
+    "lyte-keyboard-navigator": {
+        "prefix": "lyte-keyboard-navigator",
+        "body": [
+            "<lyte-popover lt-prop-origin-elem=\"#popover\" lt-prop-prevent-focus=\"true\">\n    <template is=\"registerYield\" yield-name=\"popover\">\n        <lyte-popover-content>\n            <lyte-keyboard-navigatorlt-prop-parent=\"#popover\"lt-prop-scope=\"#scope\"lt-prop-children=\".child\"lt-prop-highlighted=\".highlight\"lt-prop-selected=\"selected\">\n                <template is=\"yield\" yield-name=\"keyboard-navigator-content\">\n                    <ul id=\"scope\">\n                        <li>\n                            Item 1\n                            <ul>\n                                <li class=\"child sub highlight\">\n                                    Sub Item 1\n                                </li>\n                                <li class=\"child sub\">\n                                    Sub Item 2\n                                </li>\n                                <li class=\"child sub\">\n                                    Sub Item 3\n                                </li>\n                            </ul>\n                        </li>\n                        <li>\n                            Item 2\n                            <ul>\n                                <li class=\"child sub\">\n                                    Sub Item 4\n                                </li>\n                                <li class=\"child sub\">\n                                    Sub Item 5\n                                </li>\n                                <li class=\"child sub\">\n                                    Sub Item 6\n                                </li>\n                            </ul>\n                        </li>\n                        <li>\n                            Item 3\n                            <ul>\n                                <li class=\"child sub\">\n                                    Sub Item 7\n                                </li>\n                                <li class=\"child sub\">\n                                    Sub Item 8\n                                </li>\n                                <li class=\"child sub\">\n                                    Sub Item 9\n                                </li>\n                            </ul>\n                        </li>\n                    </ul>\n                </template>\n            </lyte-keyboard-navigator>\n        </lyte-popover-content>\n    </template>\n</lyte-popover>\n"
+        ],
+        "description": ""
+    },
+    "lyte-dual-listbox": {
+        "prefix": "lyte-dual-listbox",
+        "body": [
+            "<lyte-dual-listbox lt-prop-left-data={{leftPanelData}} lt-prop-right-data={{rightPanelData}} lt-prop-show-toolbar=true lt-prop-associate-parent=\"uniqueKey\">\n    <div class=\"lyteLBLeftWidgets\">\n        <template is=\"registerYield\" yield-name=\"leftWidget\">\n            <div class=\"wrap\">\n                <span class=\"lyteLBMandatory\">\n                    {{leftWidgetValue.name}}\n                </span>\n            </div>\n        </template>\n        <template is=\"registerYield\" yield-name=\"rightWidget\">\n            <div class=\"wrap\">\n                <span class=\"lyteLBMandatory\">\n                    {{rightWidgetValue.name}}\n                </span>\n            </div>\n        </template>\n    </div>\n</lyte-dual-listbox>\n"
+        ],
+        "description": ""
+    },
+    "lyte-loader": {
+        "prefix": "lyte-loader",
+        "body": [
+            "<lyte-loader  lt-prop-progress-bar={\"mode\": \"definite\",\"displayMsg\": {\"10\" : \"Initial Loading is completed\",\"20\" : \"Rendering the component\",\"100\" : \"Almost Complete Please wait for sometime\"},\"value\" : 10} lt-prop-selector=\"#selector\" lt-prop-on-timeout={\"errorMsg\":\"404\"}>\n</lyte-loader>\n"
+        ],
+        "description": ""
+    },
+    "lyte-menu": {
+        "prefix": "lyte-menu",
+        "body": [
+            "<lyte-button id =\"demo\">\n    <template is=\"registerYield\" yield-name =\"text\">\n        click here\n    </template>\n</lyte-button>\n<lyte-menu lt-prop-yield=true lt-prop-event =\"click/mouseenter/dblclick/contextmenu\" lt-prop-query =\"lyte-button#demo\">\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-menu-body>\n            <% someArray.forEach( function( item, index ){ %>\n                <lyte-menu-item data-value={{item.name}}>\n                    <lyte-menu-label>\n                        {{item.name}}\n                    </lyte-menu-label>\n                    <lyte-menu-description>\n                        {{item.key}}\n                    </lyte-menu-description>\n                </lyte-menu-item>\n                <% }) %>\n                </lyte-menu-body>\n            </template>\n        </lyte-menu>\n"
+        ],
+        "description": ""
+    },
+    "lyte-messagebox": {
+        "prefix": "lyte-messagebox",
+        "body": [
+            "<lyte-messagebox lt-prop-yield=true>\n    <template is=\"registerYield\" yield-name=\"messageboxYield\">\n        <span>\n            Here is the text.\n        </span>\n        <a href=\"#\">\n            Some link\n        </a>\n    </template>\n</lyte-messagebox>\n"
+        ],
+        "description": ""
+    },
+    "lyte-modal": {
+        "prefix": "lyte-modal",
+        "body": [
+            "<lyte-modal>\n    <template is=\"registerYield\" yield-name=\"modal\">\n        <lyte-modal-header>\n            Create Profile\n        </lyte-modal-header>\n        <lyte-modal-content>\n            <table cellpadding=\"0\" cellspacing=\"0\" class=\"w100per modalTable\">\n                <tbody>\n                    <tr>\n                        <td class=\"pB10 pR30 alignRight\">\n                            Profile name\n                        </td>\n                        <td class=\"pB10 mymodalinput\">\n                            <lyte-input lt-prop-type=\"text\" lt-prop-placeholder=\"\" lt-prop-appearance=\"box\">\n                            </lyte-input>\n                        </td>\n                    </tr>\n                    <tr>\n                        <td class=\"pB10 pR30 alignRight\">\n                            Clone profile\n                        </td>\n                        <td class=\"pB10 mymodaldropdown\">\n                            <lyte-dropdown lt-prop-freeze=\"false\" lt-prop-tabindex=\"2\">\n                                <template is=\"registerYield\" yield-name=\"yield\">\n                                    <lyte-drop-box>\n                                        <span class=\"lyteArrow\">\n                                        </span>\n                                        <lyte-drop-body>\n                                            <lyte-drop-item data-value=\"0\">\n                                                Administrator\n                                            </lyte-drop-item>\n                                            <lyte-drop-item data-value=\"1\">\n                                                Standard\n                                            </lyte-drop-item>\n                                        </lyte-drop-body>\n                                    </lyte-drop-box>\n                                </template>\n                            </lyte-dropdown>\n                        </td>\n                    </tr>\n                    <tr>\n                        <td class=\"pR30 alignRight vat pT7\">\n                            Description\n                        </td>\n                        <td class=\"mymodaltextarea\">\n                            <lyte-input lt-prop-type=\"textarea\" lt-prop-appearance=\"box\" lt-prop-id=\"lyteinput\" lt-prop-rows=\"2\" lt-prop-cols=\"60\" lt-prop-placeholder=\"Description\" lt-prop-text-area-resize ={\"horizontal\" : false, \"vertical\" : true }>\n                            </lyte-input>\n                        </td>\n                    </tr>\n                </tbody>\n            </table>\n        </lyte-modal-content>\n        <lyte-modal-footer class=\"right\">\n            <lyte-button lt-prop-appearance=\"primary\" onclick={{action(\"closeModal\")}}>\n                <template is=\"registerYield\" yield-name=\"text\">\n                    Create\n                </template>\n            </lyte-button>\n            <lyte-button onclick={{action(\"closeModal\")}}>\n                <template is=\"registerYield\" yield-name=\"text\">\n                    Cancel\n                </template>\n            </lyte-button>\n        </lyte-modal-footer>\n    </template>\n</lyte-modal>\n"
+        ],
+        "description": ""
+    },
+    "lyte-multi-dropdown": {
+        "prefix": "lyte-multi-dropdown",
+        "body": [
+            "<lyte-multi-dropdown lt-prop-data=\"{{dropData}}\" lt-prop-user-value=\"name\" lt-prop-system-value=\"value\">\n</lyte-multi-dropdown>\n"
+        ],
+        "description": ""
+    },
+    "lyte-multislider": {
+        "prefix": "lyte-multislider",
+        "body": [
+            "<lyte-multislider class=\"crmMultiSlider\" lt-prop-max=\"100\" lt-prop-width=\"600px\" lt-prop-value=[ { \"value\" : 30, \"min\" : 20, \"max\" : 40 }, { \"value\" : 50, \"min\" : 40, \"max\" : 60 } ] lt-prop-color=[ \"#FF6D6D\", \"#FAC268\", \"#39C995\" ] lt-prop-scale-interval=10>\n</lyte-multislider>\n"
+        ],
+        "description": ""
+    },
+    "lyte-nav": {
+        "prefix": "lyte-nav",
+        "body": [
+            "<lyte-nav lt-prop-items={{navItems}} lt-prop-user-value=\"name\" lt-prop-system-value=\"value\">\n</lyte-nav>\n"
+        ],
+        "description": ""
+    },
+    "lyte-navigator": {
+        "prefix": "lyte-navigator",
+        "body": [
+            "<lyte-navigator lt-prop-yield=\"true\" lt-prop-value=\"1\" lt-prop-records=\"100\" lt-prop-perpage=\"5\">\n    <template is=\"registerYield\" yield-name=\"navigatorYield\">\n        <div class=\"dF\">\n            <div class=\"lyteNavigator navigatorNumber\">\n                1 - 10\n            </div>\n            <div class=\"lyteNavigator lyteIconSingleBack lyteSingleBack\">\n            </div>\n            <div class=\"lyteNavigator lyteIconSingleFront lyteSingleFront\">\n            </div>\n        </div>\n    </template>\n</lyte-navigator>\n"
+        ],
+        "description": ""
+    },
+    "lyte-popover": {
+        "prefix": "lyte-popover",
+        "body": [
+            "<lyte-popover>\n    <template is=\"registerYield\" yield-name=\"popover\">\n        <lyte-popover-header>\n            Create Post :\n        </lyte-popover-header>\n        <lyte-popover-content>\n            <table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 100%;\">\n                <tr>\n                    <td style=\"text-align: right; padding: 0 20px 10px 0;\">\n                        Title\n                    </td>\n                    <td style=\"padding-bottom: 10px;\">\n                        <lyte-input lt-prop-type=\"text\" lt-prop-appearance=\"box\">\n                        </lyte-input>\n                    </td>\n                </tr>\n                <tr>\n                    <td style=\"text-align: right; padding-right: 20px;\">\n                        Subject\n                    </td>\n                    <td>\n                        <lyte-input lt-prop-type=\"text\" lt-prop-appearance=\"box\">\n                        </lyte-input>\n                    </td>\n                </tr>\n            </table>\n        </lyte-popover-content>\n        <lyte-popover-footer style=\"padding: 10px 25px 25px;\">\n            <lyte-button onclick={{action(\"closeModal\")}}>\n                <template is=\"registerYield\" yield-name=\"text\">\n                    Cancel\n                </template>\n            </lyte-button>\n            <lyte-button lt-prop-appearance=\"primary\" onclick={{action(\"closeModal\")}}>\n                <template is=\"registerYield\" yield-name=\"text\">\n                    Post\n                </template>\n            </lyte-button>\n        </lyte-popover-footer>\n    </template>\n</lyte-popover>\n"
+        ],
+        "description": ""
+    },
+    "lyte-progressbar": {
+        "prefix": "lyte-progressbar",
+        "body": [
+            "<lyte-progressbar lt-prop={\"progressProperty\" : {\"value\": \"25.89\", \"duration\" : \"2s\"}, \"animated\" : true}>\n</lyte-progressbar>\n"
+        ],
+        "description": ""
+    },
+    "lyte-rating": {
+        "prefix": "lyte-rating",
+        "body": [
+            "<lyte-rating lt-prop-type=\"svg\" lt-prop-appearance=\"star\">\n</lyte-rating>\n"
+        ],
+        "description": ""
+    },
+    "lyte-search": {
+        "prefix": "lyte-search",
+        "body": [
+            "<lyte-search lt-prop-query-selector={\"scope\" : \"lyte-tbody\", \"search\" : \"lyte-td:first-of-type\", \"target\" : \"lyte-tr\"} on-search={{method(\"error\")}}>\n</lyte-search>\n"
+        ],
+        "description": ""
+    },
+    "lyte-signature": {
+        "prefix": "lyte-signature",
+        "body": [
+            "<lyte-signature style=\"width:100%;height:300px;\">\n</lyte-signature>\n"
+        ],
+        "description": ""
+    },
+    "lyte-slider": {
+        "prefix": "lyte-slider",
+        "body": [
+            "<lyte-slider class=\"crmSlider\" lt-prop-max =\"100\" lt-prop-value =\"40\" lt-prop-width=\"600px\" lt-prop-scale-interval=20>\n</lyte-slider>\n"
+        ],
+        "description": ""
+    },
+    "lyte-splitter": {
+        "prefix": "lyte-splitter",
+        "body": [
+            "<lyte-splitter style=\"height:300px\">\n    <template is=\"registerYield\" yield-name=\"splitter\">\n        <lyte-column-splitter>\n            <lyte-column-element>\n                <lyte-row-splitter>\n                    <lyte-row-element lt-size=\"60%\">\n                        Your Content\n                    </lyte-row-element>\n                    <lyte-row-element>\n                        Your Content\n                    </lyte-row-element>\n                </lyte-row-splitter>\n            </lyte-column-element>\n            <lyte-column-element>\n                <lyte-row-splitter>\n                    <lyte-row-element>\n                        Your Content\n                    </lyte-row-element>\n                    <lyte-row-element lt-size=\"60%\">\n                        <lyte-column-splitter>\n                            <lyte-column-element>\n                                Your Content\n                            </lyte-column-element>\n                            <lyte-column-element>\n                                Your Content\n                            </lyte-column-element>\n                        </lyte-column-splitter>\n                    </lyte-row-element>\n                </lyte-row-splitter>\n            </lyte-column-element>\n        </lyte-column-splitter>\n    </template>\n</lyte-splitter>\n"
+        ],
+        "description": ""
+    },
+    "lyte-step": {
+        "prefix": "lyte-step",
+        "body": [
+            "<lyte-step lt-prop-yield=true on-click={{method(\"someMethod\")}}>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-step-structure>\n            <% someArray.forEach( function( item, index ){ %>\n                <lyte-step-item data-value={{item.order}}>\n                    <lyte-step-body>\n                        {{item.name}}\n                    </lyte-step-body>\n                </lyte-step-item>\n                <% } ) %>\n                </lyte-step-structure>\n            </template>\n        </lyte-step>\n"
+        ],
+        "description": ""
+    },
+    "lyte-svg": {
+        "prefix": "lyte-svg",
+        "body": [
+            "<lyte-svg lt-prop-path=\"images/svgexm.svg#feather\">\n</lyte-svg>\n"
+        ],
+        "description": ""
+    },
+    "lyte-tabs": {
+        "prefix": "lyte-tabs",
+        "body": [
+            "<lyte-tabs class=\"lyteInnerTab\">\n    <template is=\"registerYield\" yield-name=\"tabYield\">\n        <lyte-tab-head>\n            <lyte-tab-title lt-prop-id=\"tabs1\">\n                Modal\n            </lyte-tab-title>\n            <lyte-tab-title lt-prop-id=\"tabs2\">\n                Message Band\n            </lyte-tab-title>\n            <lyte-tab-title lt-prop-id=\"tabs3\">\n                Menu\n            </lyte-tab-title>\n        </lyte-tab-head>\n        <lyte-tab-body>\n            <lyte-tab-content id=\"tabs1\">\n                Tab contetn 1\n            </lyte-tab-content>\n            <lyte-tab-content id=\"tabs2\">\n                Tab Content 2\n            </lyte-tab-content>\n            <lyte-tab-content id=\"tabs3\">\n                Tab Content 3\n            </lyte-tab-content>\n        </lyte-tab-body>\n    </template>\n</lyte-tabs>\n"
+        ],
+        "description": ""
+    },
+    "lyte-tag": {
+        "prefix": "lyte-tag",
+        "body": [
+            "<lyte-tag lt-prop-search-keys=[\"name\",\"type\"] lt-prop-options={{items}} lt-prop-user-value=\"name\" lt-prop-system-value=\"value\" lt-prop-placeholder=\"select a value\">\n</lyte-tag>\n"
+        ],
+        "description": ""
+    },
+    "lyte-table": {
+        "prefix": "lyte-table",
+        "body": [
+            "<lyte-table lt-prop-yield=\"true\">\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-table-structure>\n            <lyte-thead>\n                <lyte-tr>\n                    <lyte-th>\n                        Serial\n                    </lyte-th>\n                    <lyte-th>\n                        Name\n                    </lyte-th>\n                    <lyte-th>\n                        Name\n                    </lyte-th>\n                    <lyte-th>\n                        Name\n                    </lyte-th>\n                    <lyte-th>\n                        Age\n                    </lyte-th>\n                    <lyte-th>\n                        Year\n                    </lyte-th>\n                    <lyte-th>\n                        From\n                    </lyte-th>\n                </lyte-tr>\n            </lyte-thead>\n            <lyte-tbody>\n                <lyte-tr class=\"crmElementFocus\">\n                    <lyte-td>\n                        2\n                    </lyte-td>\n                    <lyte-td>\n                        Brihadheeswara palace\n                    </lyte-td>\n                    <lyte-td>\n                        Brihadheeswara palace\n                    </lyte-td>\n                    <lyte-td>\n                        Brihadheeswara palace\n                    </lyte-td>\n                    <lyte-td>\n                        32\n                    </lyte-td>\n                    <lyte-td>\n                        1986\n                    </lyte-td>\n                    <lyte-td>\n                        Mysore\n                    </lyte-td>\n                </lyte-tr>\n                <lyte-tr>\n                    <lyte-td>\n                        3\n                    </lyte-td>\n                    <lyte-td>\n                        Hawa mahal\n                    </lyte-td>\n                    <lyte-td>\n                        Hawa mahal\n                    </lyte-td>\n                    <lyte-td>\n                        Hawa mahal\n                    </lyte-td>\n                    <lyte-td>\n                        32\n                    </lyte-td>\n                    <lyte-td>\n                        1912\n                    </lyte-td>\n                    <lyte-td>\n                        Mysore\n                    </lyte-td>\n                </lyte-tr>\n                <template is=\"if\" value=\"true\">\n                </template>\n                <lyte-tr>\n                    <lyte-td>\n                        4\n                    </lyte-td>\n                    <lyte-td>\n                        Bahai temple\n                    </lyte-td>\n                    <lyte-td>\n                        Bahai temple\n                    </lyte-td>\n                    <lyte-td>\n                        Bahai temple\n                    </lyte-td>\n                    <lyte-td>\n                        32\n                    </lyte-td>\n                    <lyte-td>\n                        1010\n                    </lyte-td>\n                    <lyte-td>\n                        Mysore\n                    </lyte-td>\n                </lyte-tr>\n                <lyte-tr>\n                    <lyte-td>\n                        5\n                    </lyte-td>\n                    <lyte-td>\n                        Victoria memorial\n                    </lyte-td>\n                    <lyte-td>\n                        Victoria memorial\n                    </lyte-td>\n                    <lyte-td>\n                        Victoria memorial\n                    </lyte-td>\n                    <lyte-td>\n                        32\n                    </lyte-td>\n                    <lyte-td>\n                        1799\n                    </lyte-td>\n                    <lyte-td>\n                        Mysore\n                    </lyte-td>\n                </lyte-tr>\n                <lyte-tr>\n                    <lyte-td>\n                        6\n                    </lyte-td>\n                    <lyte-td>\n                        Mysore palace\n                    </lyte-td>\n                    <lyte-td>\n                        Mysore palace\n                    </lyte-td>\n                    <lyte-td>\n                        Mysore palace\n                    </lyte-td>\n                    <lyte-td>\n                        32\n                    </lyte-td>\n                    <lyte-td>\n                        1912\n                    </lyte-td>\n                    <lyte-td>\n                        Mysore\n                    </lyte-td>\n                </lyte-tr>\n            </lyte-tbody>\n        </lyte-table-structure>\n    </template>\n</lyte-table>\n"
+        ],
+        "description": ""
+    },
+    "lyte-text": {
+        "prefix": "lyte-text",
+        "body": [
+            "<lyte-text lt-prop-value=\"Showing long text using lyte-text\">\n</lyte-text>\n"
+        ],
+        "description": ""
+    },
+    "lyte-tooltip": {
+        "prefix": "lyte-tooltip",
+        "body": [
+            "<lyte-button lt-prop-title=\"Default\" lt-prop-tooltip-config ={\"position\" : \"bottom\"}>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        Default\n    </template>\n</lyte-button>\n"
+        ],
+        "description": ""
+    },
+    "lyte-tour": {
+        "prefix": "lyte-tour",
+        "body": [
+            "<lyte-tour class=\"yourTourClass\">\n    <lyte-tour-hint lt-prop-selector=\".myHint1\">\n        <!--  Inside this you will be having the lyte-tour-step(s) -->\n        </lyte-tour-hint>\n    </lyte-tour>\n"
+        ],
+        "description": ""
+    },
+    "lyte-video": {
+        "prefix": "lyte-video",
+        "body": [
+            "<lyte-video lt-prop-source={{source}}>\n</lyte-video>\n"
+        ],
+        "description": ""
+    },
+    "lyte-voicenote": {
+        "prefix": "lyte-voicenote",
+        "body": [
+            "<lyte-voicenote lt-prop-src =[{\"src\" : \"https://www2.cs.uic.edu/~i101/SoundFiles/BabyElephantWalk60.wav\"}]>\n</lyte-voicenote>\n"
+        ],
+        "description": ""
+    },
+    "lyte-wormhole": {
+        "prefix": "lyte-wormhole",
+        "body": [
+            "<lyte-wormhole lt-prop-query=\".wormholeList1\">\n    <template is=\"registerYield\" yield-name=\"lyte-content\">\n        component / plain text\n        <template>\n        </lyte-wormhole>\n"
+        ],
+        "description": ""
+    },
+    "lyte-checkbox": {
+        "prefix": "lyte-checkbox",
+        "body": [
+            "<lyte-checkbox lt-prop-name=\"checkbox\" lt-prop-checked=\"true\" lt-prop-value=\"val\" lt-prop-id=\"checkbox\" lt-prop-label=\"Check Box\">\n</lyte-checkbox>\n"
+        ],
+        "description": ""
+    },
+    "lyte-checkbox-group": {
+        "prefix": "lyte-checkbox-group",
+        "body": [
+            "<lyte-checkbox-group lt-prop-options={{data}} lt-prop-user-value=\"name\" lt-prop-system-value=\"value\">\n</lyte-checkbox-group>\n"
+        ],
+        "description": ""
+    },
+    "lyte-datetime-input": {
+        "prefix": "lyte-datetime-input",
+        "body": [
+            "<lyte-datetime-input lt-prop-value=\"now\">\n</lyte-datetime-input>\n"
+        ],
+        "description": ""
+    },
+    "lyte-input": {
+        "prefix": "lyte-input",
+        "body": [
+            "<lyte-input lt-prop-placeholder=\"Enter some text\">\n</lyte-input>\n"
+        ],
+        "description": ""
+    },
+    "lyte-number": {
+        "prefix": "lyte-number",
+        "body": [
+            "<lyte-number>\n</lyte-number>\n"
+        ],
+        "description": ""
+    },
+    "lyte-radiobutton": {
+        "prefix": "lyte-radiobutton",
+        "body": [
+            "<lyte-radiobutton lt-prop-type=\"primary\" lt-prop-checked=\"true\" lt-prop-name=\"primary\" lt-prop-value=\"1\" lt-prop-label=\"IOS\">\n</lyte-radiobutton>\n"
+        ],
+        "description": ""
+    },
+    "lyte-radiobutton-group": {
+        "prefix": "lyte-radiobutton-group",
+        "body": [
+            "<lyte-radiobutton-group lt-prop-name=\"OS\" lt-prop-options=\"{{options}}\" lt-prop-user-value=\"name\" lt-prop-system-value=\"value\">\n</lyte-radiobutton-group>\n"
+        ],
+        "description": ""
+    },
+    "link-to": {
+        "prefix": "link-to",
+        "body": [
+            "<link-to lt-prop-route=\"home.tab\" lt-prop-target=\"_blank\">\n    Link 1\n</link-to>\n"
+        ],
+        "description": ""
+    },
+    "crux-column-list": {
+        "prefix": "crux-column-list",
+        "body": [
+            "<crux-column-list cx-prop-fields=\"{{allFields}}\">\n</crux-column-list>\n"
+        ],
+        "description": ""
+    },
+    "crux-combo-box": {
+        "prefix": "crux-combo-box",
+        "body": [
+            "<crux-combo-box cx-prop-header-msg=\"Custom Share\" cx-prop-option-models={{sharingOptionstrials}} on-save=\"{{method(saveData)}}\" cx-prop-empty-selected-msg=\"No Results Found\" set-search-criteria=\"{{method(setSearch)}}\" cx-prop-selected={{selected}} cx-prop-header-msg=\"Custom Share\" cx-prop-allow-multiple=true cx-prop-recipient={\"key\" : \"Recipient\", \"tags\" : [{\"name\" : \"sindhuja.gs@zohocrop.com\"},{\"name\" : \"sasi.gowtham@zohocrop.com\"},{\"name\" : \"kamalesh.u@zohocrop.com\"}]} on-custom-request=method(\"customRequest\")>\n</crux-combo-box>\n"
+        ],
+        "description": ""
+    },
+    "crux-criteria-editor": {
+        "prefix": "crux-criteria-editor",
+        "body": [
+            "<crux-criteria-editor cx-prop-fields=\"{{fields}}\">\n</crux-criteria-editor>\n"
+        ],
+        "description": ""
+    },
+    "crux-dashboard": {
+        "prefix": "crux-dashboard",
+        "body": [
+            "<crux-dashboard cx-prop-bind-data=\"{{allFields}}\">\n</crux-dashboard>\n"
+        ],
+        "description": ""
+    },
+    "crux-dropdown": {
+        "prefix": "crux-dropdown",
+        "body": [
+            "<crux-dropdown cx-prop-type=\"single\" cx-prop-user-value=\"value\" cx-prop-system-value=\"name\" cx-prop-placeholder=\"None\" cx-prop-selected=\"undefined\" cx-prop-options=\"{{dropdownOption}}\">\n</crux-dropdown>\n"
+        ],
+        "description": ""
+    },
+    "crux-lookupfilter-component": {
+        "prefix": "crux-lookupfilter-component",
+        "body": [
+            "<crux-lookupfilter-component cx-prop-show-filter=true cx-prop-header-fields={{headerFields}} cx-prop-clear-filter=\"true\" class=\"lyteRowCopy\">\n</crux-lookupfilter-component>\n"
+        ],
+        "description": ""
+    },
+    "crux-note": {
+        "prefix": "crux-note",
+        "body": [
+            "<crux-note cx-prop-module=\"\" cx-prop-entity=\"\">\n</crux-note>\n"
+        ],
+        "description": ""
+    },
+    "crux-permission-denied-aler": {
+        "prefix": "crux-permission-denied-aler",
+        "body": [
+            "<crux-permission-denied-alert>\n</crux-permission-denied-alert>\n"
+        ],
+        "description": ""
+    },
+    "crux-smart-filter": {
+        "prefix": "crux-smart-filter",
+        "body": [
+            "<crux-smart-filter cx-prop-fields={{fields}}>\n</crux-smart-filter>\n"
+        ],
+        "description": ""
+    },
+    "crux-table-component": {
+        "prefix": "crux-table-component",
+        "body": [
+            "<crux-table-component cx-prop-header='[{field_label : \"Company\", ui_type : 1, api_name : \"Company\"}, {field_label : \"Last Name\", ui_type : \"127\", api_name : \"Last_Name\"}, {field_label : \"Phone\", ui_type : 33, api_name : \"Phone\"}, {field_label : \"Twitter\", ui_type : \"22\", api_name : \"Twitter\"}]' cx-prop-content=\"{{content}}\" cx-prop-field-type-mapping=\"{1 : \"text\", 127 : \"text\", 33 : \"phone\", 22 : \"twitter\"}\" cx-prop-field-type-mapping-selector=\"ui_type\">\n</crux-table-component>\n"
+        ],
+        "description": ""
+    },
+    "crux-tag": {
+        "prefix": "crux-tag",
+        "body": [
+            "<crux-tag cx-prop-tag-options=\"{{existingtags}}\">\n    <crux-tag>\n"
+        ],
+        "description": ""
+    },
+    "crux-user-dropdown": {
+        "prefix": "crux-user-dropdown",
+        "body": [
+            "<crux-user-dropdown cx-prop-box-class=\"asddf\" cx-prop-type=\"single\" cx-prop-placeholder=\"None\">\n</crux-user-dropdown>\n"
+        ],
+        "description": ""
+    },
+    "crux-user-lookup": {
+        "prefix": "crux-user-lookup",
+        "body": [
+            "<crux-user-lookup>\n</crux-user-lookup>\n"
+        ],
+        "description": ""
+    },
+    "crux-user-view": {
+        "prefix": "crux-user-view",
+        "body": [
+            "<crux-user-view>\n    <crux-user-view>\n"
+        ],
+        "description": ""
+    },
+    "crux-video": {
+        "prefix": "crux-video",
+        "body": [
+            "<crux-video src=\"images/video.mp4\">\n</crux-video>\n"
+        ],
+        "description": ""
+    },
+    "crux-form-component": {
+        "prefix": "crux-form-component",
+        "body": [
+            "<crux-form-component id=\"demoFormComponent\">\n    <template is=\"registerYield\" yield-name=\"cruxFormComponent\">\n        <crux-number-component class=\"crmFormComponentRow noLabelPadding\" cx-prop-appearance=\"box\" cx-prop-from=\"create\" cx-prop-field-key=\"field_label\" currency-symbol=\"\">\n        </crux-number-component>\n        <div class=\"crmFormComponentRow\">\n            <div class=\"lyteLabel\">\n                Lead Source\n            </div>\n            <div class=\"lyteField\">\n                <crux-dropdown cx-prop-type=\"single\" cx-prop-user-value=\"value\" cx-prop-system-value=\"name\" cx-prop-placeholder=\"None\">\n                </crux-dropdown>\n            </div>\n        </div>\n        <div class=\"crmFormComponentRow\">\n            <div class=\"lyteLabel noLabelPadding\">\n                Products\n            </div>\n            <div class=\"lyteField\">\n                <lyte-checkbox lt-prop-label=\"CRM\" random-id=\"lyte-checkbox-label-25\">\n                </lyte-checkbox>\n                <lyte-checkbox lt-prop-label=\"Mail\" random-id=\"lyte-checkbox-label-25\">\n                </lyte-checkbox>\n            </div>\n        </div>\n        <div class=\"crmFormComponentRow\">\n            <div class=\"lyteLabel noLabelPadding\">\n                Options\n            </div>\n            <div class=\"lyteField\">\n                <lyte-radiobutton lt-prop-label=\"Option 1\" lt-prop-name=\"radiobutton\" random-id=\"lyte-radiobutton-label-0\">\n                </lyte-radiobutton>\n                <lyte-radiobutton lt-prop-label=\"Option 1\" lt-prop-name=\"radiobutton\" random-id=\"lyte-radiobutton-label-0\">\n                </lyte-radiobutton>\n            </div>\n        </div>\n    </template>\n</crux-form-component>\n"
+        ],
+        "description": ""
+    },
+    "crux-parent-form-component": {
+        "prefix": "crux-parent-form-component",
+        "body": [
+            "<crux-parent-form-component>\n    <template is=\"registerYield\" yield-name=\"cruxParentFormComponent\">\n        <crux-form-component id=\"demoFormComponent\">\n            <template is=\"registerYield\" yield-name=\"cruxFormComponent\">\n                <crux-number-component class=\"crmFormComponentRow noLabelPadding\" cx-prop-appearance=\"box\" cx-prop-from=\"create\" cx-prop-field-key=\"field_label\" currency-symbol=\"\" cx-prop-field='{\"field_label\":\"Auto Number\"}'>\n                </crux-number-component>\n                <div class=\"crmFormComponentRow\">\n                    <div class=\"lyteLabel\">\n                        Lead Source\n                    </div>\n                    <div class=\"lyteField\">\n                        <crux-dropdown cx-prop-type=\"single\" cx-prop-user-value=\"value\" cx-prop-system-value=\"name\" cx-prop-placeholder=\"None\" cx-prop-options='[{\"name\" : \"Volvo XC40\",\"value\" : \"Volvo\"} , {\"name\" : \"Audi R8\",\"value\" : \"Audi\"}]'>\n                        </crux-dropdown>\n                    </div>\n                </div>\n                <div class=\"crmFormComponentRow\">\n                    <div class=\"lyteLabel noLabelPadding\">\n                        Products\n                    </div>\n                    <div class=\"lyteField\">\n                        <lyte-checkbox lt-prop-label=\"CRM\" random-id=\"lyte-checkbox-label-25\">\n                        </lyte-checkbox>\n                        <lyte-checkbox lt-prop-label=\"Mail\" random-id=\"lyte-checkbox-label-25\">\n                        </lyte-checkbox>\n                    </div>\n                </div>\n                <div class=\"crmFormComponentRow\">\n                    <div class=\"lyteLabel noLabelPadding\">\n                        Options\n                    </div>\n                    <div class=\"lyteField\">\n                        <lyte-radiobutton lt-prop-label=\"Option 1\" lt-prop-name=\"radiobutton\" random-id=\"lyte-radiobutton-label-0\">\n                        </lyte-radiobutton>\n                        <lyte-radiobutton lt-prop-label=\"Option 1\" lt-prop-name=\"radiobutton\" random-id=\"lyte-radiobutton-label-0\">\n                        </lyte-radiobutton>\n                    </div>\n                </div>\n            </template>\n        </crux-form-component>\n        <div class=\"crmFormSubHeader mT30\">\n            Form Sub Header\n        </div>\n        <crux-form-component id=\"demoFormComponent\">\n            <template is=\"registerYield\" yield-name=\"cruxFormComponent\">\n                <crux-number-component class=\"crmFormComponentRow noLabelPadding\" cx-prop-appearance=\"box\" cx-prop-from=\"create\" cx-prop-field-key=\"field_label\" currency-symbol=\"\" cx-prop-field='{\"field_label\":\"Auto Number\"}'>\n                </crux-number-component>\n                <div class=\"crmFormComponentRow\">\n                    <div class=\"lyteLabel\">\n                        Lead Source\n                    </div>\n                    <div class=\"lyteField\">\n                        <crux-dropdown cx-prop-type=\"single\" cx-prop-user-value=\"value\" cx-prop-system-value=\"name\" cx-prop-placeholder=\"None\" cx-prop-options='[{\"name\" : \"Volvo XC40\",\"value\" : \"Volvo\"} , {\"name\" : \"Audi R8\",\"value\" : \"Audi\"}]'>\n                        </crux-dropdown>\n                    </div>\n                </div>\n                <div class=\"crmFormComponentRow\">\n                    <div class=\"lyteLabel noLabelPadding\">\n                        Products\n                    </div>\n                    <div class=\"lyteField\">\n                        <lyte-checkbox lt-prop-label=\"CRM\" random-id=\"lyte-checkbox-label-25\">\n                        </lyte-checkbox>\n                        <lyte-checkbox lt-prop-label=\"Mail\" random-id=\"lyte-checkbox-label-25\">\n                        </lyte-checkbox>\n                    </div>\n                </div>\n                <div class=\"crmFormComponentRow\">\n                    <div class=\"lyteLabel noLabelPadding\">\n                        Options\n                    </div>\n                    <div class=\"lyteField\">\n                        <lyte-radiobutton lt-prop-label=\"Option 1\" lt-prop-name=\"radiobutton\" random-id=\"lyte-radiobutton-label-0\">\n                        </lyte-radiobutton>\n                        <lyte-radiobutton lt-prop-label=\"Option 1\" lt-prop-name=\"radiobutton\" random-id=\"lyte-radiobutton-label-0\">\n                        </lyte-radiobutton>\n                    </div>\n                </div>\n            </template>\n        </crux-form-component>\n    </template>\n</crux-parent-form-component>\n"
+        ],
+        "description": ""
+    },
+    "crux-text-component": {
+        "prefix": "crux-text-component",
+        "body": [
+            "<crux-text-component cx-prop-tooltip=\"\" cx-prop-appearance=\"box\" cx-prop-from=\"create\" cx-prop-field-key=\"field_label\" cx-prop-field=\"{{inputFieldObj}}\">\n</crux-text-component>\n"
+        ],
+        "description": ""
+    },
+    "crux-number-component": {
+        "prefix": "crux-number-component",
+        "body": [
+            "<crux-number-component cx-prop-appearance=\"box\" cx-prop-from=\"create\" cx-prop-field-key=\"field_label\" currency-symbol=\"\" cx-prop-field=\"{{inputFieldObj}}\">\n</crux-number-component>\n"
+        ],
+        "description": ""
+    },
+    "crux-text-area-component": {
+        "prefix": "crux-text-area-component",
+        "body": [
+            "<crux-text-area-component cx-prop-appearance=\"box\" cx-prop-from=\"create\" cx-prop-field-key=\"field_label\" cx-prop-field=\"{{inputFieldObj}}\">\n</crux-text-area-component>\n"
+        ],
+        "description": ""
+    },
+    "crux-twitter-component": {
+        "prefix": "crux-twitter-component",
+        "body": [
+            "<crux-twitter-component cx-prop-appearance=\"box\" cx-prop-from=\"create\" cx-prop-field-key=\"field_label\" cx-prop-field=\"{{inputFieldObj}}\">\n</crux-twitter-component>\n"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Focus New)": {
+        "prefix": "crm-ui-loader (Focus New)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmFocusNewAnimate\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Dot loader)": {
+        "prefix": "crm-ui-loader (Dot loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmDotLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Dashed Circle Loader)": {
+        "prefix": "crm-ui-loader (Dashed Circle Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmDashedCircleLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Placeholder Loader)": {
+        "prefix": "crm-ui-loader (Placeholder Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-class=\"loaderProfilePic\" interaction-name=\"crmPlaceholderLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Form Loader)": {
+        "prefix": "crm-ui-loader (Form Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmFormLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Refresh Loader)": {
+        "prefix": "crm-ui-loader (Refresh Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmRefreshLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Spin Loader)": {
+        "prefix": "crm-ui-loader (Spin Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmSpinLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Table Loader)": {
+        "prefix": "crm-ui-loader (Table Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmTableLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Circle Loader)": {
+        "prefix": "crm-ui-loader (Circle Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmCircleLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Circle Shadow Loader)": {
+        "prefix": "crm-ui-loader (Circle Shadow Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmCircleShadowLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Bar Loader)": {
+        "prefix": "crm-ui-loader (Bar Loader)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmBarLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (New Release)": {
+        "prefix": "crm-ui-loader (New Release)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmBarLoader\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    },
+    "crm-ui-loader (Button Bg)": {
+        "prefix": "crm-ui-loader (Button Bg)",
+        "body": [
+            "<crm-ui-loaders interaction-name=\"crmButtonBgAnimate\" interaction-button-text=\"Create Portal\"></crm-ui-loaders>"
+        ],
+        "description": ""
+    }
+}
