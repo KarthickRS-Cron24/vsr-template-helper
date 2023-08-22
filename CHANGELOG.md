@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "vsr-template-helper" extension will be documented in this file.
+All notable changes to the "VSR Template Helper" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## `v1.0.0 [ Aug 2023 ]`
 
-## [Unreleased]
+### Initial Release
 
-- Initial release
+- Component from LYTE & CRUX with an attribute suggestion.
+- Base file classes are loaded in advance for class attribute.
+- Added a suggestion for the utils and mask icons.
+- Preloaded CRUX Utils for Javascript file.
+- Css and Less file color variable suggestions are provided.

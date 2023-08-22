@@ -4,7 +4,7 @@ As a continution of VSR templates, we are happy to introducing the VSCode extens
 
 Note : This is the Beta mode Editor. we are still improving the extenstion. if you face any issues then please let us know we will fix in our next update.
 
-## Features
+## `Features`
 
 What is VSR Template Helper?
 
@@ -12,8 +12,6 @@ What is VSR Template Helper?
 
 And VSR Template Helper Extenstion does fulfill what they promise, you can use short expressions to generate HTML markup, CSS.
 
-### 0.0.1
-
-Initial release of extenstion
+![VSR Template Helper](VSCode-html.gif)
 
 **Enjoy!**

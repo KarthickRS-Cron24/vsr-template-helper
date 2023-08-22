@@ -8,7 +8,6 @@
         "vscode": "^1.70.0"
     },
     "categories": [
-        "Snippets",
         "Other"
     ],
     "activationEvents": [],
@@ -17,36 +16,30 @@
     "contributes": {
         "html": {
             "customData": [
-              "./html/attribute.json",
-              "./html/class.json"
+                "./html/attribute.json",
+                "./html/class.json"
             ]
-          },
-          "snippets": [
+        },
+        "snippets": [
             {
-              "language": "html",
-              "path": "./snippets/component.json"
+                "language": "html",
+                "path": "./snippets/component.json"
             },
             {
-              "language": "html",
-              "path": "./snippets/icons.json"
+                "language": "html",
+                "path": "./snippets/icons.json"
             },
             {
-              "language": "javascript",
-              "path": "./snippets/utils.json"
+                "language": "javascript",
+                "path": "./snippets/utils.json"
             },
             {
-              "language": "css",
-              "path": "./snippets/colors.json"
+                "language": "css",
+                "path": "./snippets/colors.json"
             },
             {
-              "language": "less",
-              "path": "./snippets/colors.json"
-            }
-          ],
-        "commands": [
-            {
-                "command": "vsr-template-helper.helloWorld",
-                "title": "Hello World"
+                "language": "less",
+                "path": "./snippets/colors.json"
             }
         ]
     },
