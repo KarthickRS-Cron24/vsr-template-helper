@@ -12,6 +12,6 @@ What is VSR Template Helper?
 
 And VSR Template Helper Extenstion does fulfill what they promise, you can use short expressions to generate HTML markup, CSS.
 
-![VSR Template Helper](VSCode-html.gif)
+![VSR Template Helper](common/VSCode-html.gif)
 
 **Enjoy!**
