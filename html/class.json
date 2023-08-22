@@ -84,6 +84,10 @@
                     "description": ".fSmooth { }"
                 },
                 {
+                    "name": "fWN",
+                    "description": ".fWN { font-weight: 400; }"
+                },
+                {
                     "name": "fblink",
                     "description": ".fblink, .fbllink, .fbllink1, .fbllinkRed, .fbntxt, .fbtxt { font-size: var(--crm-small-font-size); line-height: 1.27; }"
                 },
@@ -266,6 +270,10 @@
                 {
                     "name": "dIF",
                     "description": ".dIF { display: inline-flex !important; }"
+                },
+                {
+                    "name": "flexCenter",
+                    "description": ".flexCenter { justify-content: center; align-items: center; }"
                 },
                 {
                     "name": "flexAlignCenter",
@@ -4144,6 +4152,10 @@
                     "description": ".mw80per { max-width: 80%; }"
                 },
                 {
+                    "name": "mw85per",
+                    "description": ".mw85per { max-width: 85%; }"
+                },
+                {
                     "name": "mw90per",
                     "description": ".mw90per { max-width: 90%; }"
                 },
@@ -4178,6 +4190,10 @@
                 {
                     "name": "mw250",
                     "description": ".mw250 { max-width: 250px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }"
+                },
+                {
+                    "name": "mw222",
+                    "description": ".mw222 { max-width: 222px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }"
                 },
                 {
                     "name": "maxw250",
@@ -4226,6 +4242,14 @@
                 {
                     "name": "mW60per",
                     "description": ".mW60per { max-width: 60%; }"
+                },
+                {
+                    "name": "mw80perImp",
+                    "description": ".mw80perImp { max-width: 80% !important; }"
+                },
+                {
+                    "name": "mw18perImp",
+                    "description": ".mw18perImp { max-width: 18% !important; }"
                 },
                 {
                     "name": "w162px",
@@ -4826,6 +4850,258 @@
                 {
                     "name": "leftCenter",
                     "description": ".leftCenter { left: 50%; transform: translateX(-50%); }"
+                },
+                {
+                    "name": "fontbold",
+                    "description": ".fontbold { font-weight: bold; }"
+                },
+                {
+                    "name": "crm-font-regular",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "CanvasFontRegular",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "proxima",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "proximar",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "ProximaNovaRegular",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "robotoregular",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "h1",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "h2",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "title",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "h3",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f16",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f17",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f18",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f20",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f21",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f22",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f24",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f28",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "f36",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "roboto",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "ProximaNovaLight",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "ProximaNovaThin",
+                    "description": ".crm-font-regular, .CanvasFontRegular, .proxima, .proximar, .ProximaNovaRegular, .robotoregular, select, input, form, textarea, pre, .h1, .h2, .title, .h3, .f16, .f17, .f18, .f20, .f21, .f22, .f24, .f28, .f36, .roboto, .ProximaNovaLight, .ProximaNovaThin { font-family: var(--crm-font-regular); }"
+                },
+                {
+                    "name": "crm-font-bold",
+                    "description": ".crm-font-bold, .CanvasFontBold, .semibold, .ProximaNovaSemibold, .robotobold, .proximas { font-family: var(--crm-font-bold); }"
+                },
+                {
+                    "name": "CanvasFontBold",
+                    "description": ".crm-font-bold, .CanvasFontBold, .semibold, .ProximaNovaSemibold, .robotobold, .proximas { font-family: var(--crm-font-bold); }"
+                },
+                {
+                    "name": "semibold",
+                    "description": ".crm-font-bold, .CanvasFontBold, .semibold, .ProximaNovaSemibold, .robotobold, .proximas { font-family: var(--crm-font-bold); }"
+                },
+                {
+                    "name": "ProximaNovaSemibold",
+                    "description": ".crm-font-bold, .CanvasFontBold, .semibold, .ProximaNovaSemibold, .robotobold, .proximas { font-family: var(--crm-font-bold); }"
+                },
+                {
+                    "name": "robotobold",
+                    "description": ".crm-font-bold, .CanvasFontBold, .semibold, .ProximaNovaSemibold, .robotobold, .proximas { font-family: var(--crm-font-bold); }"
+                },
+                {
+                    "name": "proximas",
+                    "description": ".crm-font-bold, .CanvasFontBold, .semibold, .ProximaNovaSemibold, .robotobold, .proximas { font-family: var(--crm-font-bold); }"
+                },
+                {
+                    "name": "crm-font-xbold",
+                    "description": ".crm-font-xbold, .CanvasFontXbold, .ProximaNovaBold, .robotobold, .proximab, .robotoblack { font-family: var(--crm-font-black); }"
+                },
+                {
+                    "name": "CanvasFontXbold",
+                    "description": ".crm-font-xbold, .CanvasFontXbold, .ProximaNovaBold, .robotobold, .proximab, .robotoblack { font-family: var(--crm-font-black); }"
+                },
+                {
+                    "name": "ProximaNovaBold",
+                    "description": ".crm-font-xbold, .CanvasFontXbold, .ProximaNovaBold, .robotobold, .proximab, .robotoblack { font-family: var(--crm-font-black); }"
+                },
+                {
+                    "name": "robotobold",
+                    "description": ".crm-font-xbold, .CanvasFontXbold, .ProximaNovaBold, .robotobold, .proximab, .robotoblack { font-family: var(--crm-font-black); }"
+                },
+                {
+                    "name": "proximab",
+                    "description": ".crm-font-xbold, .CanvasFontXbold, .ProximaNovaBold, .robotobold, .proximab, .robotoblack { font-family: var(--crm-font-black); }"
+                },
+                {
+                    "name": "robotoblack",
+                    "description": ".crm-font-xbold, .CanvasFontXbold, .ProximaNovaBold, .robotobold, .proximab, .robotoblack { font-family: var(--crm-font-black); }"
+                },
+                {
+                    "name": "ProximaNovaThinItalic",
+                    "description": ".ProximaNovaThinItalic, .ProximaNovaLightItalic, .crm-font-regular-italic, .CanvasFontRegularItalic, .ProximaNovaRegularItalic { font-family: var(--crm-font-italic); }"
+                },
+                {
+                    "name": "ProximaNovaLightItalic",
+                    "description": ".ProximaNovaThinItalic, .ProximaNovaLightItalic, .crm-font-regular-italic, .CanvasFontRegularItalic, .ProximaNovaRegularItalic { font-family: var(--crm-font-italic); }"
+                },
+                {
+                    "name": "crm-font-regular-italic",
+                    "description": ".ProximaNovaThinItalic, .ProximaNovaLightItalic, .crm-font-regular-italic, .CanvasFontRegularItalic, .ProximaNovaRegularItalic { font-family: var(--crm-font-italic); }"
+                },
+                {
+                    "name": "CanvasFontRegularItalic",
+                    "description": ".ProximaNovaThinItalic, .ProximaNovaLightItalic, .crm-font-regular-italic, .CanvasFontRegularItalic, .ProximaNovaRegularItalic { font-family: var(--crm-font-italic); }"
+                },
+                {
+                    "name": "ProximaNovaRegularItalic",
+                    "description": ".ProximaNovaThinItalic, .ProximaNovaLightItalic, .crm-font-regular-italic, .CanvasFontRegularItalic, .ProximaNovaRegularItalic { font-family: var(--crm-font-italic); }"
+                },
+                {
+                    "name": "crm-font-bold-italic",
+                    "description": ".crm-font-bold-italic, .CanvasFontBoldItalic, .ProximaNovaSemiboldItalic { font-family: var(--crm-font-bolditalic); }"
+                },
+                {
+                    "name": "CanvasFontBoldItalic",
+                    "description": ".crm-font-bold-italic, .CanvasFontBoldItalic, .ProximaNovaSemiboldItalic { font-family: var(--crm-font-bolditalic); }"
+                },
+                {
+                    "name": "ProximaNovaSemiboldItalic",
+                    "description": ".crm-font-bold-italic, .CanvasFontBoldItalic, .ProximaNovaSemiboldItalic { font-family: var(--crm-font-bolditalic); }"
+                },
+                {
+                    "name": "crm-font-xbold-italic",
+                    "description": ".crm-font-xbold-italic, .CanvasFontXboldItalic, .ProximaNovaXboldItalic, .ProximaNovaBoldItalic { font-family: var(--crm-font-blackitalic); }"
+                },
+                {
+                    "name": "CanvasFontXboldItalic",
+                    "description": ".crm-font-xbold-italic, .CanvasFontXboldItalic, .ProximaNovaXboldItalic, .ProximaNovaBoldItalic { font-family: var(--crm-font-blackitalic); }"
+                },
+                {
+                    "name": "ProximaNovaXboldItalic",
+                    "description": ".crm-font-xbold-italic, .CanvasFontXboldItalic, .ProximaNovaXboldItalic, .ProximaNovaBoldItalic { font-family: var(--crm-font-blackitalic); }"
+                },
+                {
+                    "name": "ProximaNovaBoldItalic",
+                    "description": ".crm-font-xbold-italic, .CanvasFontXboldItalic, .ProximaNovaXboldItalic, .ProximaNovaBoldItalic { font-family: var(--crm-font-blackitalic); }"
+                },
+                {
+                    "name": "crm-font-thin",
+                    "description": ".crm-font-thin, .CanvasFontThin { font-family: var(--crm-font-thin); }"
+                },
+                {
+                    "name": "CanvasFontThin",
+                    "description": ".crm-font-thin, .CanvasFontThin { font-family: var(--crm-font-thin); }"
+                },
+                {
+                    "name": "crm-font-light",
+                    "description": ".crm-font-light, .robotolight, .robotothin, .CanvasFontLight { }"
+                },
+                {
+                    "name": "robotolight",
+                    "description": ".crm-font-light, .robotolight, .robotothin, .CanvasFontLight { }"
+                },
+                {
+                    "name": "robotothin",
+                    "description": ".crm-font-light, .robotolight, .robotothin, .CanvasFontLight { }"
+                },
+                {
+                    "name": "CanvasFontLight",
+                    "description": ".crm-font-light, .robotolight, .robotothin, .CanvasFontLight { }"
+                },
+                {
+                    "name": "crm-font-medium",
+                    "description": ".crm-font-medium { font-family: var(--crm-font-medium); }"
+                },
+                {
+                    "name": "crm-font-semibold",
+                    "description": ".crm-font-semibold, .CanvasFontSemibold { font-family: var(--crm-font-semibold); }"
+                },
+                {
+                    "name": "CanvasFontSemibold",
+                    "description": ".crm-font-semibold, .CanvasFontSemibold { font-family: var(--crm-font-semibold); }"
+                },
+                {
+                    "name": "crm-font-thin-italic",
+                    "description": ".crm-font-thin-italic, .CanvasFontThinItalic { font-family: var(--crm-font-thinitalic); }"
+                },
+                {
+                    "name": "CanvasFontThinItalic",
+                    "description": ".crm-font-thin-italic, .CanvasFontThinItalic { font-family: var(--crm-font-thinitalic); }"
+                },
+                {
+                    "name": "crm-font-light-italic",
+                    "description": ".crm-font-light-italic, .CanvasFontLightItalic { font-family: var(--crm-font-lightitalic); }"
+                },
+                {
+                    "name": "CanvasFontLightItalic",
+                    "description": ".crm-font-light-italic, .CanvasFontLightItalic { font-family: var(--crm-font-lightitalic); }"
+                },
+                {
+                    "name": "crm-font-medium-italic",
+                    "description": ".crm-font-medium-italic { font-family: var(--crm-font-mediumitalic); }"
+                },
+                {
+                    "name": "crm-font-semibold-italic",
+                    "description": ".crm-font-semibold-italic, .CanvasFontSemiboldItalic { font-family: var(--crm-font-semibolditalic); }"
+                },
+                {
+                    "name": "CanvasFontSemiboldItalic",
+                    "description": ".crm-font-semibold-italic, .CanvasFontSemiboldItalic { font-family: var(--crm-font-semibolditalic); }"
                 }
             ]
         }

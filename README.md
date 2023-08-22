@@ -1,17 +1,39 @@
 # VSR-Template-Helper
 
-As a continution of VSR templates, we are happy to introducing the VSCode extension.  This extenstion fully loaded with the Lyte & Crux components and common css classes.
-
-Note : This is the Beta mode Editor. we are still improving the extenstion. if you face any issues then please let us know we will fix in our next update.
+We're excited to present the VSCode addon. This extension comes pre-loaded with recommendations for `Lyte & Crux` components, `Base CSS` classes for HTML, `Util` javascript functions, `Color & Font` variables for Css, and Less.
 
 ## `Features`
 
-What is VSR Template Helper?
+What exactly is VSR Template Helper?
 
-“VSR Template Helper is an extenstion for VS Code text editors which greatly improves HTML & CSS workflow:”
+“The VSR Template Helper Extenstion for VS Code text editors significantly enhances HTML & CSS productivity. It delivers on its promise of allowing you to build HTML markup and CSS using simple expressions.
 
-And VSR Template Helper Extenstion does fulfill what they promise, you can use short expressions to generate HTML markup, CSS.
+- Component from LYTE & CRUX with an attribute suggestion.
 
-![VSR Template Helper](common/VSCode-html.gif)
+- Base file classes are loaded in advance for class attribute.
 
-**Enjoy!**
+- Added suggestions for the utils and mask icons.
+
+- Preloaded CRUX Utils for Javascript file.
+
+- Css and Less file color variable suggestions are provided.
+
+## `Overview of the extension`
+
+This extension is suggested for use with Lyte & Crux components, Icons, and Base CSS classes for HTML.
+
+![VSR Template Helper](common/VSCode1.gif)
+
+This extension is suggested with util JavaScript functions, Colour & Font variables for CSS, and Less.
+
+![VSR Template Helper](common/VSCode2.gif)
+
+## `Help Docs`
+
+- [LYTE References](https://lyte.csez.zohocorpin.com/home)
+- [CRUX References](http://crux-components/component/introduction)
+- [CRM UI Component Docs](http://zcrm-ui-imac:8888/Ui-team/GowriPrasanth/crm-ui-components/)
+- [Color & Font Docs](http://zcrm-ui-imac:8888/Ui-team/Muneeshwaran/2021/crm-component-help-doc/)
+- [Icon Docs](http://zcrm-ui-imac:8888/Ui-team/Muneeshwaran/2021/crm-icon-helpdoc/)
+
+**`Enjoy!`**

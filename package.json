@@ -2,8 +2,9 @@
     "name": "vsr-template-helper",
     "displayName": "VSR Template Helper",
     "description": "Get started with VSR templates, Virtual Scalable and Reusable Templates for building mockups for UI development",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "publisher": "CRMZiaUITeam",
+    "author": "KarthickRS",
     "engines": {
         "vscode": "^1.70.0"
     },
@@ -42,6 +43,10 @@
                 "path": "./snippets/colors.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KarthickRS-Cron24/vsr-template-helper"
     },
     "scripts": {
         "lint": "eslint .",
