@@ -2,7 +2,7 @@
     "name": "vsr-template-helper",
     "displayName": "VSR Template Helper",
     "description": "Get started with VSR templates, Virtual Scalable and Reusable Templates for building mockups for UI development",
-    "version": "0.0.5",
+    "version": "1.0.0",
     "publisher": "CRMZiaUITeam",
     "author": "KarthickRS",
     "engines": {
