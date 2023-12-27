@@ -11,7 +11,6 @@
     "categories": [
         "Other"
     ],
-    "activationEvents": [],
     "main": "./extension.js",
     "icon": "./common/icon.png",
     "contributes": {
@@ -42,6 +41,12 @@
                 "language": "less",
                 "path": "./snippets/colors.json"
             }
+        ],
+        "commands": [
+            {
+                "command": "vsr-template-helper.helpDocs",
+                "title": "VSR Help Docs"
+            }
         ]
     },
     "repository": {
@@ -54,14 +59,17 @@
         "test": "node ./test/runTest.js"
     },
     "devDependencies": {
-        "@types/vscode": "^1.70.0",
         "@types/glob": "^8.1.0",
         "@types/mocha": "^10.0.1",
         "@types/node": "20.2.5",
+        "@types/vscode": "^1.70.0",
+        "@vscode/test-electron": "^2.3.2",
         "eslint": "^8.41.0",
         "glob": "^8.1.0",
         "mocha": "^10.2.0",
-        "typescript": "^5.1.3",
-        "@vscode/test-electron": "^2.3.2"
+        "typescript": "^5.1.3"
+    },
+    "dependencies": {
+        "axios": "^1.4.0"
     }
 }

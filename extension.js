@@ -1,6 +1,7 @@
 // The module 'vscode' contains the VS Code extensibility API
 // Import the module and reference it with the alias vscode in your code below
 const vscode = require('vscode');
+const axios = require('axios');
 
 // This method is called when your extension is activated
 // Your extension is activated the very first time the command is executed
@@ -11,23 +12,28 @@ const vscode = require('vscode');
  * bfi2h5ncan5opvbthsttafgzf5r7pz4ykpzyui26pjuew3oogvmq
  * 
  */
-function activate(context) {
+"use strict";
+async function activate(context) {
 
-	// Use the console to output diagnostic information (console.log) and errors (console.error)
-	// This line of code will only be executed once when your extension is activated
-	console.log('Congratulations, your extension "vsr-template-helper" is now active!');
+	vscode.window.showInformationMessage('Thank you for using VSR Template Helper!');
 
-	// The command has been defined in the package.json file
-	// Now provide the implementation of the command with  registerCommand
-	// The commandId parameter must match the command field in package.json
-	let disposable = vscode.commands.registerCommand('vsr-template-helper.helloWorld', function () {
-		// The code you place here will be executed every time your command is executed
+	const helpDocs = [
+		{ label: 'VSR Template Docs', detail: 'Virtual Scalable and Reusable Templates for building mockups for UI development', link: 'http://zcrm-ui-imac:8888/Ui-team/mock_templates/documentation/#/' },
+		{ label: 'LYTE References', link: 'https://lyte.csez.zohocorpin.com/home' },
+		{ label: 'CRUX References', link: 'http://crux-components/component/introduction' },
+		{ label: 'CRM UI Component Docs', link: 'http://zcrm-ui-imac:8888/Ui-team/GowriPrasanth/crm-ui-components/' },
+		{ label: 'CRM Color & Font Docs', link: 'http://zcrm-ui-imac:8888/Ui-team/Muneeshwaran/2021/crm-component-help-doc/' },
+		{ label: 'CRM Icon Docs', link: 'http://zcrm-ui-imac:8888/Ui-team/Muneeshwaran/2021/crm-icon-helpdoc/' },
+		{ label: 'CRM Base Class Docs', link: 'http://zcrm-ui-imac:8888/Ui-team/vijay/Base%20Docs/#/home' },
+	];
 
-		// Display a message box to the user
-		vscode.window.showInformationMessage('Hello World from VSR Template Helper!');
+	vscode.commands.registerCommand('vsr-template-helper.helpDocs', async function () {
+		let doc = await vscode.window.showQuickPick(helpDocs, {
+			matchOnDetail: true,
+		})
+		if (doc == null) return
+		vscode.env.openExternal(doc.link);
 	});
-
-	context.subscriptions.push(disposable);
 }
 
 // This method is called when your extension is deactivated
