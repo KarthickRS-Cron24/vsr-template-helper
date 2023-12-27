@@ -9,7 +9,7 @@
     "lyte-alert": {
         "prefix": "lyte-alert",
         "body": [
-            "<lyte-alert lt-prop-wrapper-class=\"sampleAlert\" lt-prop-yield=\"true\">\n    <template is=\"registerYield\" yield-name=\"alert\">\n        <lyte-alert-header>\n            Delete Profile\n        </lyte-alert-header>\n        <lyte-alert-content>\n            Are you sure want to delete this profile?\n        </lyte-alert-content>\n    </template>\n</lyte-alert>\n"
+            "<lyte-alert lt-prop-show=\"true\" lt-prop-wrapper-class=\"sampleAlert\" lt-prop-yield=\"true\">\n    <template is=\"registerYield\" yield-name=\"alert\">\n        <lyte-alert-header>\n            Delete Profile\n        </lyte-alert-header>\n        <lyte-alert-content>\n            Are you sure want to delete this profile?\n        </lyte-alert-content>\n    </template>\n</lyte-alert>\n"
         ],
         "description": ""
     },
@@ -30,21 +30,21 @@
     "lyte-badge": {
         "prefix": "lyte-badge",
         "body": [
-            "<lyte-button class=\"btn\">\n    <lyte-badge class=\"testBadge\" lyte-if={{yourBoolean}}>\n    </lyte-badge>\n    <template is=\"registerYield\" yield-name=\"text\">\n        Custom Badge\n    </template>\n</lyte-button>\n"
+            "<lyte-button>\n    <lyte-badge class=\"zi1\" lyte-if=\"true\">\n    </lyte-badge>\n    <template is=\"registerYield\" yield-name=\"text\">\n        Custom Badge\n    </template>\n</lyte-button>\n"
         ],
         "description": ""
     },
     "lyte-banner": {
         "prefix": "lyte-banner",
         "body": [
-            "<lyte-banner lt-prop-show=\"true\" lt-prop-modal={\"wrapperClass\":\"crmWarningBanner\",\"offset\":{\"top\":\"30px\",\"left\":\"250px\"},\"width\":\"60%\"}>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        Authenticate your email-sending domains by 20.11.2022 to comply with changes to Zoho CRMâ€™s email practices.\n    </template>\n</lyte-banner>\n"
+            "<lyte-banner lt-prop-show=\"true\" lt-prop-modal='{\"wrapperClass\":\"crmWarningBanner\",\"offset\":{\"top\":\"30px\",\"left\":\"250px\"},\"width\":\"60%\"}'>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        Authenticate your email-sending domains by 20.11.2022 to comply with changes to Zoho CRMâ€™s email practices.\n    </template>\n</lyte-banner>\n"
         ],
         "description": ""
     },
     "lyte-breadcrumb": {
         "prefix": "lyte-breadcrumb",
         "body": [
-            "<lyte-breadcrumb lt-prop-yield=true on-click={{method(\"someMethod\")}}>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-breadcrumb-structure>\n            <%someArray.forEach( function( item, index ){%>\n                <lyte-breadcrumb-item data-value={{item.order}}>\n                    <lyte-breadcrumb-body>\n                        {{item.name}}\n                    </lyte-breadcrumb-body>\n                </lyte-breadcrumb-item>\n                <%})%>\n                </lyte-breadcrumb-structure>\n            </template>\n        </lyte-breadcrumb>\n"
+            "<lyte-breadcrumb lt-prop-yield=\"true\">\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-breadcrumb-structure>\n            <lyte-breadcrumb-item data-value=\"Home\">\n                <lyte-breadcrumb-body>\n                    Home\n                </lyte-breadcrumb-body>\n            </lyte-breadcrumb-item>\n            <lyte-breadcrumb-item data-value=\"New\">\n                <lyte-breadcrumb-body>\n                    New\n                </lyte-breadcrumb-body>\n            </lyte-breadcrumb-item>\n            <lyte-breadcrumb-item data-value=\"Edit\">\n                <lyte-breadcrumb-body>\n                    Edit\n                </lyte-breadcrumb-body>\n            </lyte-breadcrumb-item>\n        </lyte-breadcrumb-structure>\n    </template>\n</lyte-breadcrumb>\n"
         ],
         "description": ""
     },
@@ -107,7 +107,7 @@
     "lyte-colorpicker": {
         "prefix": "lyte-colorpicker",
         "body": [
-            "<lyte-colorpicker lt-prop-basic-color-picker=\"true\">\n</lyte-colorpicker>\n"
+            "<lyte-colorpicker lt-prop-inline=\"true\" lt-prop-basic-color-picker=\"true\">\n</lyte-colorpicker>\n"
         ],
         "description": ""
     },
@@ -177,7 +177,7 @@
     "lyte-hovercard": {
         "prefix": "lyte-hovercard",
         "body": [
-            "<lyte-hovercard  lt-prop-origin-elem=\"lyte-button#tooltip\">\n    <template is=\"registerYield\" yield-name=\"hoverCardYield\">\n        <lyte-hovercard-content>\n            <p>\n                A hovercard is useful for displaying additional info/content associated to an element\n            </p>\n        </lyte-hovercard-content>\n    </template>\n</lyte-hovercard>\n<lyte-button id=\"button\" lyte-hovercard=true>\n    <template is=\"registerYield\" yield-name=\"text\">\n        Default\n    </template>\n</lyte-button>\n"
+            "<lyte-button id=\"tooltip\" lyte-hovercard=\"true\">\n    <template is=\"registerYield\" yield-name=\"text\">\n        Default\n    </template>\n</lyte-button>\n<lyte-hovercard lt-prop-auto-show=\"true\" lt-prop-origin-elem=\"#tooltip\">\n    <template is=\"registerYield\" yield-name=\"hoverCardYield\">\n        <lyte-hovercard-content>\n            <p>\n                A hovercard is useful for displaying additional info/content associated to an element\n            </p>\n        </lyte-hovercard-content>\n    </template>\n</lyte-hovercard>\n"
         ],
         "description": ""
     },
@@ -212,21 +212,21 @@
     "lyte-menu": {
         "prefix": "lyte-menu",
         "body": [
-            "<lyte-button id =\"demo\">\n    <template is=\"registerYield\" yield-name =\"text\">\n        click here\n    </template>\n</lyte-button>\n<lyte-menu lt-prop-yield=true lt-prop-event =\"click/mouseenter/dblclick/contextmenu\" lt-prop-query =\"lyte-button#demo\">\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-menu-body>\n            <% someArray.forEach( function( item, index ){ %>\n                <lyte-menu-item data-value={{item.name}}>\n                    <lyte-menu-label>\n                        {{item.name}}\n                    </lyte-menu-label>\n                    <lyte-menu-description>\n                        {{item.key}}\n                    </lyte-menu-description>\n                </lyte-menu-item>\n                <% }) %>\n                </lyte-menu-body>\n            </template>\n        </lyte-menu>\n"
+            "<lyte-button id=\"demo\">\n    <template is=\"registerYield\" yield-name=\"text\">\n        click here\n    </template>\n</lyte-button>\n<lyte-menu lt-prop-yield=\"true\" lt-prop-event=\"click\" lt-prop-query=\"lyte-button#demo\">\n    <template is=\"registerYield\" yield-name=\"yield\">\n        <lyte-menu-body>\n            <lyte-menu-item data-value=\"New File\">\n                <lyte-menu-label>\n                    New File\n                </lyte-menu-label>\n                <lyte-menu-description>\n                    Ctrl + N\n                </lyte-menu-description>\n            </lyte-menu-item>\n            <lyte-menu-item data-value=\"Open File\">\n                <lyte-menu-label>\n                    Open File\n                </lyte-menu-label>\n                <lyte-menu-description>\n                    Ctrl + O\n                </lyte-menu-description>\n            </lyte-menu-item>\n        </lyte-menu-body>\n    </template>\n</lyte-menu>\n"
         ],
         "description": ""
     },
     "lyte-messagebox": {
         "prefix": "lyte-messagebox",
         "body": [
-            "<lyte-messagebox lt-prop-yield=true>\n    <template is=\"registerYield\" yield-name=\"messageboxYield\">\n        <span>\n            Here is the text.\n        </span>\n        <a href=\"#\">\n            Some link\n        </a>\n    </template>\n</lyte-messagebox>\n"
+            "<lyte-messagebox lt-prop-show=\"false\" lt-prop-yield=\"true\">\n    <template is=\"registerYield\" yield-name=\"messageboxYield\">\n        <span>\n            Here is the text.\n        </span>\n        <a href=\"#\">\n            Some link\n        </a>\n    </template>\n</lyte-messagebox>\n"
         ],
         "description": ""
     },
     "lyte-modal": {
         "prefix": "lyte-modal",
         "body": [
-            "<lyte-modal>\n    <template is=\"registerYield\" yield-name=\"modal\">\n        <lyte-modal-header>\n            Create Profile\n        </lyte-modal-header>\n        <lyte-modal-content>\n            <table cellpadding=\"0\" cellspacing=\"0\" class=\"w100per modalTable\">\n                <tbody>\n                    <tr>\n                        <td class=\"pB10 pR30 alignRight\">\n                            Profile name\n                        </td>\n                        <td class=\"pB10 mymodalinput\">\n                            <lyte-input lt-prop-type=\"text\" lt-prop-placeholder=\"\" lt-prop-appearance=\"box\">\n                            </lyte-input>\n                        </td>\n                    </tr>\n                    <tr>\n                        <td class=\"pB10 pR30 alignRight\">\n                            Clone profile\n                        </td>\n                        <td class=\"pB10 mymodaldropdown\">\n                            <lyte-dropdown lt-prop-freeze=\"false\" lt-prop-tabindex=\"2\">\n                                <template is=\"registerYield\" yield-name=\"yield\">\n                                    <lyte-drop-box>\n                                        <span class=\"lyteArrow\">\n                                        </span>\n                                        <lyte-drop-body>\n                                            <lyte-drop-item data-value=\"0\">\n                                                Administrator\n                                            </lyte-drop-item>\n                                            <lyte-drop-item data-value=\"1\">\n                                                Standard\n                                            </lyte-drop-item>\n                                        </lyte-drop-body>\n                                    </lyte-drop-box>\n                                </template>\n                            </lyte-dropdown>\n                        </td>\n                    </tr>\n                    <tr>\n                        <td class=\"pR30 alignRight vat pT7\">\n                            Description\n                        </td>\n                        <td class=\"mymodaltextarea\">\n                            <lyte-input lt-prop-type=\"textarea\" lt-prop-appearance=\"box\" lt-prop-id=\"lyteinput\" lt-prop-rows=\"2\" lt-prop-cols=\"60\" lt-prop-placeholder=\"Description\" lt-prop-text-area-resize ={\"horizontal\" : false, \"vertical\" : true }>\n                            </lyte-input>\n                        </td>\n                    </tr>\n                </tbody>\n            </table>\n        </lyte-modal-content>\n        <lyte-modal-footer class=\"right\">\n            <lyte-button lt-prop-appearance=\"primary\" onclick={{action(\"closeModal\")}}>\n                <template is=\"registerYield\" yield-name=\"text\">\n                    Create\n                </template>\n            </lyte-button>\n            <lyte-button onclick={{action(\"closeModal\")}}>\n                <template is=\"registerYield\" yield-name=\"text\">\n                    Cancel\n                </template>\n            </lyte-button>\n        </lyte-modal-footer>\n    </template>\n</lyte-modal>\n"
+            "<lyte-modal lt-prop-height=\"auto\" lt-prop-show=\"false\" lt-prop-transition='{\"animation\":\"slideFromTop\",\"duration\":\"0.5s\"}' lt-prop-offset='{\"top\":\"0\",\"left\":\"center\"}'>\n    <template is=\"registerYield\" yield-name=\"modal\">\n        <lyte-modal-header>\n            Create Profile\n        </lyte-modal-header>\n        <lyte-modal-content>\n            //Some Content\n        </lyte-modal-content>\n        <lyte-modal-footer class=\"right\">\n            //Some button\n        </lyte-modal-footer>\n    </template>\n</lyte-modal>\n"
         ],
         "description": ""
     },
@@ -261,7 +261,7 @@
     "lyte-popover": {
         "prefix": "lyte-popover",
         "body": [
-            "<lyte-popover>\n    <template is=\"registerYield\" yield-name=\"popover\">\n        <lyte-popover-header>\n            Create Post :\n        </lyte-popover-header>\n        <lyte-popover-content>\n            <table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 100%;\">\n                <tr>\n                    <td style=\"text-align: right; padding: 0 20px 10px 0;\">\n                        Title\n                    </td>\n                    <td style=\"padding-bottom: 10px;\">\n                        <lyte-input lt-prop-type=\"text\" lt-prop-appearance=\"box\">\n                        </lyte-input>\n                    </td>\n                </tr>\n                <tr>\n                    <td style=\"text-align: right; padding-right: 20px;\">\n                        Subject\n                    </td>\n                    <td>\n                        <lyte-input lt-prop-type=\"text\" lt-prop-appearance=\"box\">\n                        </lyte-input>\n                    </td>\n                </tr>\n            </table>\n        </lyte-popover-content>\n        <lyte-popover-footer style=\"padding: 10px 25px 25px;\">\n            <lyte-button onclick={{action(\"closeModal\")}}>\n                <template is=\"registerYield\" yield-name=\"text\">\n                    Cancel\n                </template>\n            </lyte-button>\n            <lyte-button lt-prop-appearance=\"primary\" onclick={{action(\"closeModal\")}}>\n                <template is=\"registerYield\" yield-name=\"text\">\n                    Post\n                </template>\n            </lyte-button>\n        </lyte-popover-footer>\n    </template>\n</lyte-popover>\n"
+            "<lyte-button id=\"showButton\">\n    <template is=\"registerYield\" yield-name=\"text\">\n        Default\n    </template>\n</lyte-button>\n<lyte-popover lt-prop-show=\"true\" lt-prop-origin-elem=\"#showButton\" lt-prop-duration=\"400\" lt-prop-header-padding=\"15px 30px\" lt-prop-content-padding=\"15px 30px\" lt-prop-footer-padding=\"15px 30px\">\n    <template is=\"registerYield\" yield-name=\"popover\">\n        <lyte-popover-header>\n            Create Profile\n        </lyte-popover-header>\n        <lyte-popover-content>\n            //Some Content\n        </lyte-popover-content>\n        <lyte-popover-footer class=\"right\">\n            //Some button\n        </lyte-popover-footer>\n    </template>\n</lyte-popover>\n"
         ],
         "description": ""
     },
@@ -282,7 +282,7 @@
     "lyte-search": {
         "prefix": "lyte-search",
         "body": [
-            "<lyte-search lt-prop-query-selector={\"scope\" : \"lyte-tbody\", \"search\" : \"lyte-td:first-of-type\", \"target\" : \"lyte-tr\"} on-search={{method(\"error\")}}>\n</lyte-search>\n"
+            "<lyte-search lt-prop-query-selector='{\"scope\" : \"lyte-tbody\", \"search\" : \"lyte-td:first-of-type\", \"target\" : \"lyte-tr\"}'>\n</lyte-search>\n"
         ],
         "description": ""
     },
@@ -352,7 +352,7 @@
     "lyte-tooltip": {
         "prefix": "lyte-tooltip",
         "body": [
-            "<lyte-button lt-prop-title=\"Default\" lt-prop-tooltip-config ={\"position\" : \"bottom\"}>\n    <template is=\"registerYield\" yield-name=\"yield\">\n        Default\n    </template>\n</lyte-button>\n"
+            "<lyte-button lt-prop-title=\"Tooltip\" lt-prop-tooltip-config='{\"position\" : \"bottom\"}'>\n    <template is=\"registerYield\" yield-name=\"text\">\n        Tooltip\n    </template>\n</lyte-button>\n"
         ],
         "description": ""
     },
