@@ -226,7 +226,7 @@
     "lyte-modal": {
         "prefix": "lyte-modal",
         "body": [
-            "<lyte-modal lt-prop-height=\"auto\" lt-prop-show=\"false\" lt-prop-transition='{\"animation\":\"slideFromTop\",\"duration\":\"0.5s\"}' lt-prop-offset='{\"top\":\"0\",\"left\":\"center\"}'>\n    <template is=\"registerYield\" yield-name=\"modal\">\n        <lyte-modal-header>\n            Create Profile\n        </lyte-modal-header>\n        <lyte-modal-content>\n            //Some Content\n        </lyte-modal-content>\n        <lyte-modal-footer class=\"right\">\n            //Some button\n        </lyte-modal-footer>\n    </template>\n</lyte-modal>\n"
+            "<lyte-modal lt-prop-height=\"auto\" lt-prop-show=\"false\" lt-prop-transition='{\"animation\":\"slideFromTop\",\"duration\":\"0.5\"}' lt-prop-offset='{\"top\":\"0\",\"left\":\"center\"}'>\n    <template is=\"registerYield\" yield-name=\"modal\">\n        <lyte-modal-header>\n            Create Profile\n        </lyte-modal-header>\n        <lyte-modal-content>\n            //Some Content\n        </lyte-modal-content>\n        <lyte-modal-footer class=\"right\">\n            //Some button\n        </lyte-modal-footer>\n    </template>\n</lyte-modal>\n"
         ],
         "description": ""
     },
